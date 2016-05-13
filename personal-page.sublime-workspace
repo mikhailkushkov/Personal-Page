@@ -1,0 +1,618 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"numHours"
+			],
+			[
+				"new",
+				"newArr"
+			],
+			[
+				"arr",
+				"arrLength"
+			],
+			[
+				"pos",
+				"positiveArr"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"ran",
+				"randomProp"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"max",
+				"maxName"
+			],
+			[
+				"ne",
+				"newProp"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"ex",
+				"extractCurrencyValue"
+			],
+			[
+				"sp",
+				"spamTarget2"
+			],
+			[
+				"spa",
+				"spamTarget1"
+			],
+			[
+				"ch",
+				"checkSpam"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"rando",
+				"randomInteger"
+			],
+			[
+				"r",
+				"round"
+			],
+			[
+				"get",
+				"getRandomInt"
+			],
+			[
+				"pr",
+				"preis2"
+			],
+			[
+				"pre",
+				"preis1"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"fu",
+				"fuctorial"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"add",
+				"addTo"
+			],
+			[
+				"sec",
+				"secondParagraph"
+			],
+			[
+				"glo",
+				"global_var"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"che",
+				"checkAge"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"whi",
+				"while"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"name",
+				"nameVerification"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"m",
+				"male"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"brows",
+				"browserSync"
+			],
+			[
+				"al",
+				"alt	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 6048,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/less/main.less",
+			"settings":
+			{
+				"buffer_size": 1561,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control:",
+		"selected_items":
+		[
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"jshint",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/Personal-Page",
+		"/C/projects/Personal-Page/app",
+		"/C/projects/Personal-Page/app/less"
+	],
+	"file_history":
+	[
+		"/C/projects/Personal-Page/app/index.html",
+		"/C/projects/gittest/app/index.html",
+		"/C/projects/project3/app/index.html",
+		"/C/projects/project3/gulpfile.js",
+		"/C/Users/Alienware/Desktop/lessson/index.html",
+		"/C/projects/project2/app/less/main.less",
+		"/C/projects/project3/app/css/main.css",
+		"/C/projects/project2/app/css/main.css",
+		"/C/projects/project3/package.json",
+		"/C/projects/project3/bower.json",
+		"/C/projects/project2/app/js/main.js",
+		"/C/projects/project2/app/index.html",
+		"/C/projects/project2/app/gulpfile.js",
+		"/C/projects/project-1/app/js/main.js",
+		"/C/projects/project2/app/package.json",
+		"/C/projects/project2/app/.bowerrc",
+		"/C/projects/project2/app/bower.json",
+		"/C/Users/Alienware/Desktop/workflow/gulpfile.js",
+		"/C/projects/project-1/app/index.html",
+		"/C/Users/Alienware/project1/app/index.html",
+		"/C/projects/project-parallax/app/index.html",
+		"/C/projects/project-parallax/app/less/main.less",
+		"/C/Users/Alienware/Desktop/corporate4_M(2)/corporate4_M/css/main.css",
+		"/C/Users/Alienware/Desktop/corporate4_M(2)/corporate4_M/index.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Advanced/Урок_7._ООП-2015-03-11/Урок 7. ООП/002_Homework.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/2-5/page1.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Advanced/Урок_7._ООП-2015-03-11/Урок 7. ООП/001_Homework.html",
+		"/C/Users/Alienware/Desktop/JS/2015_05_18_1930/2015_05_18_1930/116500571@conference.javascript.ru (2015-05-18T19.29.58+0300).html",
+		"/C/Users/Alienware/Desktop/corporate3_M/css/main.css",
+		"/C/Users/Alienware/Desktop/corporate3_M/index.html",
+		"/C/Users/Alienware/Desktop/corporate3/index.html",
+		"/C/Users/Alienware/Desktop/corporate3/js/bootstrap.js",
+		"/C/Users/Alienware/Desktop/corporate2/index.html",
+		"/C/Users/Alienware/Desktop/corporate2/css/main.css",
+		"/C/Users/Alienware/Desktop/corporate/css/main.css",
+		"/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/index.html",
+		"/C/Users/Alienware/Desktop/corporate/index.html",
+		"/C/Users/Alienware/Desktop/corporate_landing_page/Corporate Landing Page.psd",
+		"/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/css/style.css",
+		"/C/Users/Alienware/Desktop/psd+code/allenia/allenia/index.html",
+		"/C/Users/Alienware/Desktop/lessson/less/main.less",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/2-5/УаЃ™ 3. Фг≠™ж®®/1.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/2-5/УаЃ™ 3. Фг≠™ж®®/001_function_simple/practicing.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/Practice/home works/homework js1/hw3.js",
+		"/C/Users/Alienware/Desktop/lessson/js/main.js",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/УаЃ™ 1. ВҐ•§•≠®• Ґ JavaScript/004_operators/002_equality/002_equality.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/Practice/треугольник.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/УаЃ™ 1. ВҐ•§•≠®• Ґ JavaScript/004_operators/003_relation/001_relation.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/УаЃ™ 1. ВҐ•§•≠®• Ґ JavaScript/002_data_types/006_type_conversion.html",
+		"/C/Users/Alienware/Desktop/lessson/css/main.css",
+		"/C/Users/Alienware/Desktop/psd+code/yukNgalam/index.html",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/index.html",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/less/main.less",
+		"/C/Users/Alienware/Desktop/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/lib/typewriter.js",
+		"/C/Users/Alienware/Desktop/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/example/css/style.css",
+		"/C/Users/Alienware/Desktop/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/example/index.html",
+		"/C/Users/Alienware/Desktop/PHP Contact Forms/Complete Tutorial Example/mail.php",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/js/main.js",
+		"/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/js/script.js",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/js/npm.js",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam-5.08/yukNgalam/js/main.js",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/js/main.js",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/less/main.less",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/css/main.css",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/index.html",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/css/main.css",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/hamburgler.js",
+		"/C/Users/Alienware/Desktop/ВИДЕО БЛОКИ/ВИДЕО БЛОКИ/Адаптивное меню - responsive menu/responsive menu/css/style.css",
+		"/C/projects/project-1/.bowerrc",
+		"/C/projects/project-1/bower.json",
+		"/C/projects/project-1/gulpfile.js",
+		"/C/projects/project-1/app/css/main.css",
+		"/C/Users/Alienware/Desktop/gulpfile.js",
+		"/C/Users/Alienware/project1/app/js/main.js",
+		"/C/Users/Alienware/project1/app/css/main.css",
+		"/C/Users/Alienware/project1/gulpfile.js",
+		"/C/Users/Alienware/project1/.bowerrc",
+		"/C/Users/Alienware/project1/bower.json",
+		"/C/Users/Alienware/Desktop/Block 3/Block 3/index.html",
+		"/C/Users/Alienware/Desktop/Block 3/Block 3/main.css",
+		"/C/Users/Alienware/project1/package.json",
+		"/C/projects/start02/app/index.html",
+		"/C/projects/start1/.bowerrc",
+		"/C/projects/start02/gulpfile.js",
+		"/C/projects/start1/gulpfile.js",
+		"/C/projects/start1/app/index.html",
+		"/C/Users/Alienware/AppData/Roaming/Skype/My Skype Received Files/gulpfile.js",
+		"/C/Users/Alienware/Desktop/yukNgalam/fonts/Lato/latofonts.css",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/Alienware/Desktop/yukNgalam/less/main.less",
+		"/C/Users/Alienware/Desktop/yukNgalam/index.html",
+		"/C/Users/Alienware/Desktop/yukNgalam/fonts/Lato/latostyle.css",
+		"/C/Users/Alienware/Desktop/webfontkit-20160302-152223/stylesheet.css",
+		"/C/Users/Alienware/Desktop/html5_tag-block.jpg",
+		"/C/Users/Alienware/Desktop/demo/css/demo-page.css",
+		"/C/Users/Alienware/Desktop/ChunkFive/chunkfive.css",
+		"/C/Users/Alienware/Desktop/yukNgalam/fonts/chunkfive/style.css",
+		"/C/Users/Alienware/Desktop/yukNgalam/css/main.css",
+		"/C/Users/Alienware/Desktop/start_less/css/main.css",
+		"/C/Users/Alienware/Desktop/LESS/lesselements.less",
+		"/C/Users/Alienware/Desktop/start_less/less/style.less",
+		"/C/Users/Alienware/Desktop/start_less/less/main.css",
+		"/C/Users/Alienware/Desktop/start_less/less/style.css",
+		"/C/Users/Alienware/Desktop/umbrella landing page 29.02/umbrella landing page2/index.html",
+		"/C/Users/Alienware/Desktop/umbrella landing page 29.02/umbrella landing page2/css/style.css",
+		"/C/Users/Alienware/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Alienware/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Alienware/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Alienware/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vertical_content",
+			"info_text",
+			"try_button",
+			"try_button_wrapper",
+			"watch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4413,
+								4413
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3981.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "app/less/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								663,
+								663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.365272706307,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 216.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal-page.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
