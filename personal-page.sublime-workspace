@@ -4,34 +4,229 @@
 		"selected_items":
 		[
 			[
-				"pri",
-				"price_adjusted"
+				"num",
+				"numHours"
 			],
 			[
-				"ico",
-				"icon_left.png	w:31 h:80"
+				"new",
+				"newArr"
+			],
+			[
+				"arr",
+				"arrLength"
+			],
+			[
+				"pos",
+				"positiveArr"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"ran",
+				"randomProp"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"max",
+				"maxName"
+			],
+			[
+				"ne",
+				"newProp"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"ex",
+				"extractCurrencyValue"
+			],
+			[
+				"sp",
+				"spamTarget2"
+			],
+			[
+				"spa",
+				"spamTarget1"
+			],
+			[
+				"ch",
+				"checkSpam"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"rando",
+				"randomInteger"
+			],
+			[
+				"r",
+				"round"
+			],
+			[
+				"get",
+				"getRandomInt"
+			],
+			[
+				"pr",
+				"preis2"
+			],
+			[
+				"pre",
+				"preis1"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"fu",
+				"fuctorial"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"add",
+				"addTo"
+			],
+			[
+				"sec",
+				"secondParagraph"
+			],
+			[
+				"glo",
+				"global_var"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"che",
+				"checkAge"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"whi",
+				"while"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"name",
+				"nameVerification"
+			],
+			[
+				"p",
+				"prompt"
 			],
 			[
 				"pro",
-				"programm_07.png	w:325 h:75"
+				"prompt"
 			],
 			[
-				"otzi",
-				"otziv_html_1.jpg	w:280 h:210"
+				"m",
+				"male"
 			],
 			[
-				"icon",
-				"icon_video.png	w:275 h:140"
+				"b",
+				"bottom"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"brows",
+				"browserSync"
+			],
+			[
+				"al",
+				"alt	Attr"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\n	<meta charset=\"UTF-8\">\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n	<!-- Commented initial-scale=1.0 - to destroy Resonsive support -->\n	<!-- <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> -->\n	<link rel=\"shortcut icon\" href=\"img/favicon.png\" />\n    <link rel=\"apple-touch-icon\" href=\"img/apple-touch-icon.png\">\n	\n	<!-- Titles -->\n	<title>Personal Page</title>\n    <meta name=\"keywords\" content=\"Обучение верстке, обучение созданию сайтов, HTML курсы, обучение HTML5, курс по верстке, курс по созданию сайтов, верстка для новичков, создание сайтов для новичков\">\n    <meta name=\"description\" content=\"Обучение верстке сайтов и созданию сайтов HTML5 + CSS3. Курс по верстке и основам основам создания сайтов. Продолжительность 4 недели.\">\n\n	<!-- build:css css/vendor.min.css -->\n		<link rel=\"stylesheet\" href=\"bower/bootstrap/dist/css/bootstrap.min.css\">\n\n		<!-- bower:css -->\n		<link rel=\"stylesheet\" href=\"bower/qtip2/jquery.qtip.min.css\" />\n		<!-- endbower -->\n		<link rel=\"stylesheet\" href=\"fonts/raleway/raleway.css\">\n		<link rel=\"stylesheet\" href=\"bower/font-awesome/css/font-awesome.min.css\">\n		<link rel=\"stylesheet\" href=\"bower/owl-carousel/owl-carousel/owl.carousel.css\">\n		<!-- <link rel=\"stylesheet\" href=\"bower/owl-carousel/owl-carousel/owl.theme.css\"> -->\n		<link rel=\"stylesheet\" href=\"css/owl.theme.css\">\n	<!-- endbuild -->\n\n	<!-- build:css css/styles.min.css -->\n		<link rel=\"stylesheet\" href=\"css/main.css\">\n	<!-- endbuild -->\n\n	<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"img/favicons/apple-touch-icon-57x57.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"img/favicons/apple-touch-icon-60x60.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"img/favicons/apple-touch-icon-72x72.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"img/favicons/apple-touch-icon-76x76.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"img/favicons/apple-touch-icon-114x114.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"img/favicons/apple-touch-icon-120x120.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"img/favicons/apple-touch-icon-144x144.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"img/favicons/apple-touch-icon-152x152.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"img/favicons/apple-touch-icon-180x180.png\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/favicon-32x32.png\" sizes=\"32x32\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/android-chrome-192x192.png\" sizes=\"192x192\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/favicon-96x96.png\" sizes=\"96x96\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/favicon-16x16.png\" sizes=\"16x16\">\n	<link rel=\"manifest\" href=\"img/favicons/manifest.json\">\n	<!-- <link rel=\"mask-icon\" href=\"img/favicons/safari-pinned-tab.svg\" color=\"#5bbad5\"> -->\n	<link rel=\"mask-icon\" href=\"img/favicons/safari-pinned-tab.svg\">\n	<link rel=\"shortcut icon\" href=\"img/favicons/favicon.ico\">\n	<meta name=\"apple-mobile-web-app-title\" content=\"HTML курс - обучение\">\n	<meta name=\"application-name\" content=\"HTML курс - обучение\">\n	<meta name=\"msapplication-TileColor\" content=\"#da532c\">\n	<meta name=\"msapplication-TileImage\" content=\"img/favicons/mstile-144x144.png\">\n	<meta name=\"msapplication-config\" content=\"img/favicons/browserconfig.xml\">\n	<meta name=\"theme-color\" content=\"#ffffff\">\n\n	<meta property=\"og:url\" content=\"http://rightblog.ru/htmlcourse/\" />\n	<meta property=\"og:type\" content=\"website\" />\n	<meta property=\"og:title\" content=\"Обучение верстке сайтов HTML5 + CSS3. Основы создания сайтов за 4 недели.\" />\n	<meta property=\"og:description\" content=\"Научись верстать классные современные сайты. HTML и CSS с нуля до профи. Старт обучения - 1 апреля 2016 года.\" />\n	<meta property=\"og:image\" content=\"http://rightblog.ru/htmlcourse/img/facebook_big_img.png\" />\n\n\n\n</head>\n<body>\n\n<!--[if lt IE 8]>\n    <p class=\"browserupgrade\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n<![endif]-->\n\n<!-- .................................................................\n\n		HEADER - Michail\n\n ................................................................. -->\n\n\n<div class=\"header_BG\">\n	\n\n<!-- ..............navigation.................. -->\n\n	<div class=\"nav\">\n		<div class=\"logo\">\n			<a href=\"#\">Mikhail Kushkov</a>\n		</div>\n		<ul class=\"main_nav clearfix\">\n			<!-- <li class=\"name\"><a href=\"#\">Mikhail Kushkov</a></li> -->\n			<li><a href=\"#\">Main</a></li>\n			<li><a href=\"#\">Portfolio</a></li>\n			<li><a href=\"#\">Contacts</a></li>\n		</ul>\n	</div>\n\n<!-- ..............///navigation.................. -->\n\n	<div class=\"title_wrapper\">\n		<h1 class=\"main_title\">Web-Developer55</h1>\n		<h3 class=\"sub_title\">Making of UI Interfaces with JavaScript/HTML5/CSS3</h3>\n	</div>\n\n\n	<!-- <div class=\"roll_down_wrapper\"> -->\n		<!-- <a href=\"#\"><img src=\"img/rollDown.png\" class=\"roll_down\"></a> -->\n	<!-- </div> -->\n\n	\n		<a class=\"mouse_scroll\" href=\"#solution\" rel='m_PageScroll2id'>\n\n				<div class=\"mouse\">\n					<div class=\"wheel\"></div>\n				</div>\n				<div>\n					<span class=\"m_scroll_arrows unu\"></span>\n					<span class=\"m_scroll_arrows doi\"></span>\n					<span class=\"m_scroll_arrows trei\"></span>\n				</div>\n		</a>\n\n</div>\n\n\n\n<!-- .................................................................\n\n		DESCRIPTION - Yurij\n\n ................................................................. -->\n<div class=\"section_padding border_bottom\">\n<div class=\"container\">\n	<div class=\"row\">\n		<div class=\"col-md-1\">\n			<div class=\"icon\">\n				<img src=\"img/icon.laptop.svg\" alt=\"HTML5/CSS3 верстка на заказ\">\n			</div>\n		</div>\n		<div class=\"col-md-5\">\n			<h3 class=\"margint-top-0\">HTML5/CSS3 верстка на заказ</h3>\n			<p>Делаю верстку веб сайтов, порталов, интернет-магазинов, интерфейсов веб-приложений. Адптивная, кроссбраузерная, валидная, правильная семантическая верстка по современным стандартам качества.</p>\n		</div>\n		<div class=\"col-md-1\">\n			<div class=\"icon\">\n				<img src=\"img/icon_mobile.svg\" alt=\"Поддержка онлайн проектов\">\n			</div>\n		</div>\n		<div class=\"col-md-5\">\n			<h3 class=\"margint-top-0\">Поддержка онлайн проектов</h3>\n			<p>Готов оказывать подержку вашего онлайн проекта. Верстка, наполнение контентом с HTML5 разметкой, подержка при разработке и сопровождение крупных проектов.</p>\n		</div>	\n	</div>\n</div>\n</div>\n\n\n<br>\n<br>\n<br>\n<br>\n<br>\n\n\n<!-- .................................................................\n\n		RESUME - Michail\n\n ................................................................. -->\n\n\n\n\n\n<!-- .................................................................\n\n		PORTFOLIO - Yurij\n\n ................................................................. -->\n\n\n\n\n\n<!-- .................................................................\n\n		FOOTER - Michail\n\n ................................................................. -->\n\n\n\n\n\n\n\n<!--[if lt IE 9]>\n<script src=\"js/html5shiv/es5-shim.min.js\"></script>\n<script src=\"js/html5shiv/html5shiv.min.js\"></script>\n<script src=\"js/html5shiv/html5shiv-printshiv.min.js\"></script>\n<script src=\"js/html5shiv/respond.min.js\"></script>\n<![endif]-->\n\n\n<!-- build:js js/vendor.min.js -->\n	<script src=\"bower/jquery/dist/jquery.js\"></script>\n	<!-- bower:js -->\n	<script src=\"bower/bPopup/jquery.bpopup.js\"></script>\n	<script src=\"bower/qtip2/jquery.qtip.min.js\"></script>\n	<script src=\"bower/bootstrap/dist/js/bootstrap.js\"></script>\n	<!-- endbower -->\n	<script src=\"js/pagescroll2id/jquery.malihu.PageScroll2id.js\"></script>\n	<script src=\"bower/owl-carousel/owl-carousel/owl.carousel.min.js\"></script>\n	<script src=\"js/jquery.validate.js\"></script>\n	<!--  <script src=\"bower/bPopup/jquery.bpopup.min.js\"></script> -->\n\n<!-- endbuild -->\n\n<!-- build:js js/user.min.js -->\n	<script src=\"js/main.js\"></script>\n<!-- endbuild -->\n\n\n\n</body>\n</html>",
 			"file": "app/index.html",
+			"file_size": 8901,
+			"file_write_time": 131078752561694364,
 			"settings":
 			{
-				"buffer_size": 6834,
+				"buffer_size": 7930,
 				"line_ending": "Windows"
 			}
 		},
@@ -39,7 +234,23 @@
 			"file": "app/less/main.less",
 			"settings":
 			{
-				"buffer_size": 2863,
+				"buffer_size": 3252,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/less/mouse_scroll_snippet.less",
+			"settings":
+			{
+				"buffer_size": 2572,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 6122,
 				"line_ending": "Windows"
 			}
 		}
@@ -51,32 +262,44 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 185.0,
-		"last_filter": "install",
+		"height": 490.0,
+		"last_filter": "Package Control:",
 		"selected_items":
 		[
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"packa",
-				"Package Control: Install Package"
+				"packag",
+				"Preferences: Browse Packages"
 			]
 		],
-		"width": 494.0
+		"width": 571.0
 	},
 	"console":
 	{
-		"height": 445.0,
+		"height": 162.0,
 		"history":
 		[
-			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+			"jshint",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -90,137 +313,128 @@
 	},
 	"expanded_folders":
 	[
-		"/C/workflow/personal_page",
-		"/C/workflow/personal_page/app"
+		"/C/projects/Personal-Page",
+		"/C/projects/Personal-Page/app",
+		"/C/projects/Personal-Page/app/less"
 	],
 	"file_history":
 	[
-		"/C/workflow/personal_page/.gitignore",
-		"/C/workflow/personal_page/app/htaccess.txt",
-		"/C/workflow/personal_page/personal-page.sublime-project",
-		"/C/OpenServer/domains/papadigital/app/fonts/raleway/raleway-webfont.css",
-		"/C/OpenServer/domains/papadigital/app/less/mouse_scroll_snippet.less",
-		"/C/OpenServer/domains/papadigital/app/js/main.js",
-		"/C/OpenServer/domains/papadigital/app/less/main.less",
-		"/C/OpenServer/domains/papadigital/app/index.html",
-		"/C/OpenServer/domains/papadigital/app/test.html",
-		"/C/OpenServer/domains/papadigital/app/less/header.less",
-		"/C/OpenServer/domains/papadigital/app/less/utils/utils.less",
-		"/C/OpenServer/domains/papadigital/app/fonts/firasans/firasans.css",
-		"/C/OpenServer/domains/papadigital/app/fonts/raleway/raleway-webfont.less",
-		"/C/OpenServer/domains/papadigital/app/fonts/raleway-webfont-master/raleway-webfont.less",
-		"/C/OpenServer/domains/papadigital/app/fonts/raleway-webfont-master/mixins.less",
-		"/C/Users/Yurij/Desktop/jquery - on focus and on blur behaviour for element.js",
-		"/C/workflow/papadigitalsplash/app/index.html",
-		"/C/OpenServer/domains/freewebinar/send.php",
-		"/C/OpenServer/domains/freewebinar/htmlcourse.txt",
-		"/C/OpenServer/domains/freewebinar/online.html",
-		"/C/OpenServer/domains/freewebinar/thankyou.html",
-		"/C/OpenServer/domains/freewebinar/index.php",
-		"/C/Users/Yurij/Desktop/Практика вебинар/Практика вебинар/01_doctype.html",
-		"/C/Users/Yurij/Desktop/Практика вебинар/Практика вебинар/02_headers.html",
-		"/C/Users/Yurij/Desktop/Практика вебинар/Практика вебинар/03_text.html",
-		"/C/Users/Yurij/Desktop/Практика вебинар/Практика вебинар/06_tables.html",
-		"/C/Users/Yurij/Desktop/Практика вебинар/Практика вебинар/05_a_links.html",
-		"/C/Users/Yurij/Desktop/Практика вебинар/Практика вебинар/04_forms.html",
-		"/C/Users/Yurij/Desktop/html_project/js/main.js",
-		"/C/workflow/htmlcourse/app/index.html",
-		"/C/OpenServer/domains/rightblogru/wp-content/themes/rightblog2015menu/functions.php",
-		"/C/OpenServer/domains/rightblogru/wp-content/themes/rightblog2015menu/sidebar.php",
-		"/C/workflow/start05/app/less/utils/utils.less",
-		"/C/OpenServer/domains/rightblogru/wp-content/themes/rightblog2015menu/index.php",
-		"/C/workflow/start05/gulpfile.js",
-		"/C/workflow/start05/app/index.html",
-		"/C/workflow/start05/package.json",
-		"/C/workflow/start05/readme.md",
-		"/C/workflow/test01/package.json",
-		"/C/workflow/start04/gulpfile.js",
-		"/C/workflow/start04/package.json",
-		"/C/workflow/start04/bower.json",
-		"/C/workflow/htmlcourse/gulpfile.js",
-		"/C/OpenServer/domains/prioritet/admin/catalog/catalog-edit.php",
-		"/C/OpenServer/domains/prioritet/libs/default.php",
-		"/C/OpenServer/domains/prioritet/modules/catalog/catalog.php",
-		"/C/OpenServer/domains/prioritet/libs/auth.php",
-		"/C/OpenServer/domains/rightblogru/wp-content/themes/rightblog2015menu/header.php",
-		"/C/OpenServer/domains/prioritet/skins/prioritet/templates/Catalog/catalog_id.tpl",
-		"/C/OpenServer/domains/blachere/wp-content/themes/blachere/header.php",
-		"/C/OpenServer/domains/blachere/wp-content/themes/blachere/footer.php",
-		"/C/Users/Yurij/Desktop/test.php",
-		"/C/workflow/htmlcourse/app/js/main.js",
-		"/C/OpenServer/domains/htmlcourse2016/send.php",
-		"/C/OpenServer/domains/wordpress/wp-includes/default-filters.php",
-		"/C/OpenServer/domains/htmlcourse2016/payment/buttons.html",
-		"/C/OpenServer/domains/htmlcourse2016/payment/part_pay.html",
-		"/C/OpenServer/domains/htmlcourse2016/payment/index.html",
-		"/C/workflow/htmlcourse/app/less/main.less",
-		"/D/YandexDisk/КУРС HTML ВИДЕО/ПОТОК 04/ВИДЕО БЛОКИ/Табы - jquery/tabs/js/main.js",
-		"/C/Users/Yurij/Desktop/landing/style.css",
-		"/C/Users/Yurij/Desktop/lesson_01/lesson_01/01_doctype.html",
-		"/C/Users/Yurij/Desktop/lesson_01/lesson_01/02_headers.html",
-		"/C/Users/Yurij/Desktop/lesson_01/lesson_01/03_text.html",
-		"/C/Users/Yurij/Desktop/lesson_01/lesson_01/a_links.html",
-		"/C/Users/Yurij/Desktop/lesson_01/lesson_01/04_forms.html",
-		"/C/Users/Yurij/Desktop/lesson_02/01_tables.html",
-		"/C/Users/Yurij/Desktop/index.html",
-		"/C/Users/Yurij/Desktop/style.css",
-		"/C/Users/Yurij/AppData/Local/Temp/default.php",
-		"/C/Users/Yurij/Desktop/page.html",
-		"/C/Users/Yurij/Desktop/landing/index.html",
-		"/C/OpenServer/domains/htmlcourse2016/htmlcourse 02.txt",
-		"/C/OpenServer/domains/htmlcourse2016/htmlcourse.txt",
-		"/C/Users/Yurij/Desktop/users.txt",
-		"/C/Users/Yurij/Desktop/htmlcourse.txt",
-		"/D/YandexDisk/OneDrive/БИБЛИОТЕКА/_a/startup_html_04/css/style.less",
-		"/C/OpenServer/domains/htmlcourse2016/index.html",
-		"/C/Users/Yurij/Desktop/Organic/index.html",
-		"/C/Users/Yurij/Desktop/Organic/style.css",
-		"/C/Users/Yurij/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/PROJECTS/rightblogemail/app/jade/_common/_mixins.jade",
-		"/C/PROJECTS/rightblogemail/app/jade/_common/_header.jade",
-		"/C/PROJECTS/rightblogemail/app/jade/responsive.jade",
-		"/C/PROJECTS/rightblogemail/app/jade/_pages/05.jade",
-		"/C/workflow/htmlcourse/app/less/header.less",
-		"/C/workflow/htmlcourse/app/css/bootstrap/bootstrap.css",
-		"/C/Users/Yurij/Downloads/bootstrap/css/bootstrap.css",
-		"/C/workflow/htmlcourse/app/fonts/firasans/firasans.css",
-		"/C/workflow/htmlcourse/app/fonts/unisans/unisansac.css",
-		"/C/workflow/htmlcourse/app/less/utils/lesselements use.less",
-		"/C/workflow/htmlcourse/app/css/owl.theme.css",
-		"/C/workflow/htmlcourse/app/less/utils/utils.less",
-		"/C/OpenServer/domains/htmlcourse/index.php",
-		"/C/workflow/htmlcourse/app/js/counters.js",
-		"/C/OpenServer/domains/htmlcourse/js/common.js",
-		"/C/workflow/htmlcourse/app/js/jquery.validate.js",
-		"/C/OpenServer/domains/dz1/app/portfolio.html",
-		"/C/OpenServer/domains/dz1/app/js/add_project.js",
-		"/D/YandexDisk/ПРОЕКТЫ 2015/_LIBS CODE/FRONTEND/scroll2id/js/main.js",
-		"/D/YandexDisk/ПРОЕКТЫ 2015/_LIBS CODE/FRONTEND/scroll2id/index.html",
-		"/C/workflow/htmlcourse/bower.json",
-		"/C/workflow/htmlcourse/app/less/utils/lesselements.less",
-		"/C/workflow/htmlcourse/app/less/mouse_scroll_snippet.less",
-		"/D/YandexDisk/OneDrive/БИБЛИОТЕКА/_a/startup_html_02/css/style.less",
-		"/D/YandexDisk/OneDrive/БИБЛИОТЕКА/_a/startup_html_02/css/common.less",
-		"/D/YandexDisk/OneDrive/БИБЛИОТЕКА/_a/startup_html_02/css/main.less",
-		"/C/Users/Yurij/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-		"/D/YandexDisk/OneDrive/БИБЛИОТЕКА/_a/startup_html_04/index.html",
-		"/C/workflow/start02/app/index.html",
-		"/D/YandexDisk/OneDrive/БИБЛИОТЕКА/_a/startup_html_04/js/common.js",
-		"/D/YandexDisk/OneDrive/БИБЛИОТЕКА/_a/startup_html_04/css/content.less",
-		"/D/YandexDisk/OneDrive/БИБЛИОТЕКА/_a/startup_html_04/css/lib/utils.css",
-		"/C/OpenServer/domains/dz1/app/less/main.less",
-		"/C/PROJECTS/grintex/app/less/general_styles.less",
-		"/C/PROJECTS/startup_less/app/less/main.less",
-		"/C/workflow/start01/gulpfile.js",
-		"/C/workflow/htmlcourse/package.json",
-		"/C/PROJECTS/loft2/gulpfile.js",
-		"/C/PROJECTS/workflow2/gulpfile.js",
-		"/C/PROJECTS/rightblogemail/app/jade/_pages/04.jade",
-		"/C/PROJECTS/1.html"
+		"/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/index.html",
+		"/C/Users/Alienware/Desktop/raleway-webfont.css",
+		"/C/Users/Alienware/Desktop/15.03.2015/css/style.css",
+		"/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/css/style.css",
+		"/C/projects/Personal-Page/app/js/main.js",
+		"/C/projects/Personal-Page/app/index.html",
+		"/C/projects/gittest/app/index.html",
+		"/C/projects/project3/app/index.html",
+		"/C/projects/project3/gulpfile.js",
+		"/C/Users/Alienware/Desktop/lessson/index.html",
+		"/C/projects/project2/app/less/main.less",
+		"/C/projects/project3/app/css/main.css",
+		"/C/projects/project2/app/css/main.css",
+		"/C/projects/project3/package.json",
+		"/C/projects/project3/bower.json",
+		"/C/projects/project2/app/js/main.js",
+		"/C/projects/project2/app/index.html",
+		"/C/projects/project2/app/gulpfile.js",
+		"/C/projects/project-1/app/js/main.js",
+		"/C/projects/project2/app/package.json",
+		"/C/projects/project2/app/.bowerrc",
+		"/C/projects/project2/app/bower.json",
+		"/C/Users/Alienware/Desktop/workflow/gulpfile.js",
+		"/C/projects/project-1/app/index.html",
+		"/C/Users/Alienware/project1/app/index.html",
+		"/C/projects/project-parallax/app/index.html",
+		"/C/projects/project-parallax/app/less/main.less",
+		"/C/Users/Alienware/Desktop/corporate4_M(2)/corporate4_M/css/main.css",
+		"/C/Users/Alienware/Desktop/corporate4_M(2)/corporate4_M/index.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Advanced/Урок_7._ООП-2015-03-11/Урок 7. ООП/002_Homework.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/2-5/page1.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Advanced/Урок_7._ООП-2015-03-11/Урок 7. ООП/001_Homework.html",
+		"/C/Users/Alienware/Desktop/JS/2015_05_18_1930/2015_05_18_1930/116500571@conference.javascript.ru (2015-05-18T19.29.58+0300).html",
+		"/C/Users/Alienware/Desktop/corporate3_M/css/main.css",
+		"/C/Users/Alienware/Desktop/corporate3_M/index.html",
+		"/C/Users/Alienware/Desktop/corporate3/index.html",
+		"/C/Users/Alienware/Desktop/corporate3/js/bootstrap.js",
+		"/C/Users/Alienware/Desktop/corporate2/index.html",
+		"/C/Users/Alienware/Desktop/corporate2/css/main.css",
+		"/C/Users/Alienware/Desktop/corporate/css/main.css",
+		"/C/Users/Alienware/Desktop/corporate/index.html",
+		"/C/Users/Alienware/Desktop/corporate_landing_page/Corporate Landing Page.psd",
+		"/C/Users/Alienware/Desktop/psd+code/allenia/allenia/index.html",
+		"/C/Users/Alienware/Desktop/lessson/less/main.less",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/2-5/УаЃ™ 3. Фг≠™ж®®/1.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/2-5/УаЃ™ 3. Фг≠™ж®®/001_function_simple/practicing.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/Practice/home works/homework js1/hw3.js",
+		"/C/Users/Alienware/Desktop/lessson/js/main.js",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/УаЃ™ 1. ВҐ•§•≠®• Ґ JavaScript/004_operators/002_equality/002_equality.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/Practice/треугольник.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/УаЃ™ 1. ВҐ•§•≠®• Ґ JavaScript/004_operators/003_relation/001_relation.html",
+		"/C/Users/Alienware/Desktop/JS/JS- kurs/JS Base/УаЃ™ 1. ВҐ•§•≠®• Ґ JavaScript/002_data_types/006_type_conversion.html",
+		"/C/Users/Alienware/Desktop/lessson/css/main.css",
+		"/C/Users/Alienware/Desktop/psd+code/yukNgalam/index.html",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/index.html",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/less/main.less",
+		"/C/Users/Alienware/Desktop/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/lib/typewriter.js",
+		"/C/Users/Alienware/Desktop/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/example/css/style.css",
+		"/C/Users/Alienware/Desktop/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/Minimal-jQuery-Animated-Text-Typing-Effect-Best-Typewriter/example/index.html",
+		"/C/Users/Alienware/Desktop/PHP Contact Forms/Complete Tutorial Example/mail.php",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/js/main.js",
+		"/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/js/script.js",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/js/npm.js",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam-5.08/yukNgalam/js/main.js",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/js/main.js",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/less/main.less",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/css/main.css",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/index.html",
+		"/C/Users/Alienware/Desktop/yukNgalam-5.08/yukNgalam/css/main.css",
+		"/C/Users/Alienware/Desktop/yukNgalam-test/yukNgalam/hamburgler.js",
+		"/C/Users/Alienware/Desktop/ВИДЕО БЛОКИ/ВИДЕО БЛОКИ/Адаптивное меню - responsive menu/responsive menu/css/style.css",
+		"/C/projects/project-1/.bowerrc",
+		"/C/projects/project-1/bower.json",
+		"/C/projects/project-1/gulpfile.js",
+		"/C/projects/project-1/app/css/main.css",
+		"/C/Users/Alienware/Desktop/gulpfile.js",
+		"/C/Users/Alienware/project1/app/js/main.js",
+		"/C/Users/Alienware/project1/app/css/main.css",
+		"/C/Users/Alienware/project1/gulpfile.js",
+		"/C/Users/Alienware/project1/.bowerrc",
+		"/C/Users/Alienware/project1/bower.json",
+		"/C/Users/Alienware/Desktop/Block 3/Block 3/index.html",
+		"/C/Users/Alienware/Desktop/Block 3/Block 3/main.css",
+		"/C/Users/Alienware/project1/package.json",
+		"/C/projects/start02/app/index.html",
+		"/C/projects/start1/.bowerrc",
+		"/C/projects/start02/gulpfile.js",
+		"/C/projects/start1/gulpfile.js",
+		"/C/projects/start1/app/index.html",
+		"/C/Users/Alienware/AppData/Roaming/Skype/My Skype Received Files/gulpfile.js",
+		"/C/Users/Alienware/Desktop/yukNgalam/fonts/Lato/latofonts.css",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/Alienware/Desktop/yukNgalam/less/main.less",
+		"/C/Users/Alienware/Desktop/yukNgalam/index.html",
+		"/C/Users/Alienware/Desktop/yukNgalam/fonts/Lato/latostyle.css",
+		"/C/Users/Alienware/Desktop/webfontkit-20160302-152223/stylesheet.css",
+		"/C/Users/Alienware/Desktop/html5_tag-block.jpg",
+		"/C/Users/Alienware/Desktop/demo/css/demo-page.css",
+		"/C/Users/Alienware/Desktop/ChunkFive/chunkfive.css",
+		"/C/Users/Alienware/Desktop/yukNgalam/fonts/chunkfive/style.css",
+		"/C/Users/Alienware/Desktop/yukNgalam/css/main.css",
+		"/C/Users/Alienware/Desktop/start_less/css/main.css",
+		"/C/Users/Alienware/Desktop/LESS/lesselements.less",
+		"/C/Users/Alienware/Desktop/start_less/less/style.less",
+		"/C/Users/Alienware/Desktop/start_less/less/main.css",
+		"/C/Users/Alienware/Desktop/start_less/less/style.css",
+		"/C/Users/Alienware/Desktop/umbrella landing page 29.02/umbrella landing page2/index.html",
+		"/C/Users/Alienware/Desktop/umbrella landing page 29.02/umbrella landing page2/css/style.css",
+		"/C/Users/Alienware/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Alienware/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Alienware/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Alienware/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap"
 	],
 	"find":
 	{
-		"height": 74.0
+		"height": 46.0
 	},
 	"find_in_files":
 	{
@@ -234,134 +448,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"What IT specialists",
-			"h2",
-			"mouse",
-			"mouse_scroll",
-			"scroll_icon",
-			"header_table",
-			"url('@{RalewayWebfontPath}/",
-			"import",
-			"wiredep",
-			"	",
-			"twentytwelve-style",
-			".css",
-			"wp_enqueue_scripts",
-			"wp_styles",
-			"twentytwelve_scripts_styles",
-			"v",
-			"enqu",
-			"v_sku",
-			"number_format_unlimited_precision",
-			"price",
-			"old_price",
-			"number_format_unlimited_precision",
-			"old_price",
-			"catalog_id",
-			"рал",
-			"фев",
-			"4 неде",
-			"base",
-			"getAttributeNode",
-			"playVideo",
-			"stopVideo",
-			"playVideo",
-			"stopVideo",
-			"callPlayer",
-			"divModal",
-			"_showModalvideo_otziv1",
-			"video_otziv5",
-			"_showModalvideo_otziv2",
-			"modal_video_otziv2",
-			"ВИДЕО Отзывы УЧЕНИКОВ",
-			"апрель",
-			"1 апреля",
-			"form",
-			"февр",
-			"февра",
-			"февраля ",
-			"column",
-			"button",
-			"Бердюков",
-			"managed",
-			"Хренкова",
-			"Александр",
-			"momik",
-			"87776082580",
-			"Косаревская",
-			"89681936626",
-			"Елизавета",
-			"smewinka88",
-			"Иван",
-			"smewinka88",
-			"89603763719",
-			"zhuchkova",
-			"89603763719",
-			"jelenkins",
-			"37061870828",
-			"smewinka88",
-			"</b>",
-			"<b>",
-			"<a href",
-			"    - ",
-			" ваше обучение после обучения",
-			"Янв",
-			"Четв",
-			"table3-3",
-			"pusher",
-			"table",
-			".page_header",
-			"section_navigation",
-			"stat",
-			"static",
-			".col-sm-1",
-			"media",
-			"col-md-2",
-			"col-md-3",
-			"col-md",
-			"media",
-			"Opengraph",
-			"section",
-			"modal_oferta",
-			"m_PageScroll2id",
-			"PageScroll2id",
-			"rel=\"m_PageScroll2id\"",
-			"img ",
-			"5bbad5",
-			"name=keywords",
-			"server",
-			"baseDir",
-			"обечен",
-			"order_form",
-			"form",
-			"Валерий",
-			"modal_ask_a_question",
-			"Политик",
-			"Политика",
-			"вопрос",
-			"style",
-			"bpop",
-			"bpopu",
-			"add_new_project",
-			"add_new_item",
-			"11",
-			"owl-pagination",
-			"owl-prev",
-			"jquery",
-			"tarhet",
-			"teacher",
-			".form_plate input[type=\"submit\"]",
-			"button_big",
-			"offse",
-			"bonus",
-			"testimonials",
-			"page_header",
-			"social",
-			" Как проходит обучение",
-			"parallax",
-			",",
-			"TESTIMONIALS",
-			"section"
+			"cd-main-nav-wrapper",
+			"vertical_content",
+			"info_text",
+			"try_button",
+			"try_button_wrapper",
+			"watch"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -369,14 +461,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"url('",
-			", ",
-			"",
-			"<a target=\"_blank\" href",
-			"",
-			"class=\"PageScroll2id\"",
-			".",
-			"<h4 class=\"practice_title color_1\">Практика</h4>"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -396,24 +480,25 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6834,
+						"buffer_size": 7930,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								433,
-								433
+								5555,
+								5555
 							]
 						],
 						"settings":
 						{
+							"is_xml": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4714.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -431,28 +516,87 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2863,
+						"buffer_size": 3252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1250,
-								1250
+								2454,
+								2454
 							]
 						],
 						"settings":
 						{
 							"auto_indent": true,
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1392.0,
+						"translation.y": 4120.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/less/mouse_scroll_snippet.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2045,
+								2045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4036.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 172.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -460,11 +604,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 36.0
+		"height": 35.0
 	},
 	"input":
 	{
-		"height": 74.0
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -486,7 +630,7 @@
 		"cols":
 		[
 			0.0,
-			0.435405240707,
+			0.53824470928,
 			1.0
 		],
 		"rows":
@@ -496,6 +640,14 @@
 		]
 	},
 	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 216.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -504,7 +656,7 @@
 	"project": "personal-page.sublime-project",
 	"replace":
 	{
-		"height": 122.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -542,7 +694,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 279.0,
+	"side_bar_width": 209.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

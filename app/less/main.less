@@ -3,12 +3,14 @@
 
 @import "utils/utils";
 @import "utils/lesselements";
+@import "mouse_scroll_snippet.less";
 
 @containerwidth: 1170px;
 @mainfont: 'Raleway';
 @mainfontsize: 16px;
 @linkcolor: white;
 
+//@main_blue_title: 
 
 
 
@@ -39,12 +41,6 @@ h3 {
 .margint-top-0 {
 	margin-top: 0;
 } 
-
-
-
-
-
-
 
 /* ....................................................
 
@@ -114,6 +110,7 @@ h3 {
     }//nav
 
     /*..........................//Navigation.......................*/
+	
 	.title_wrapper{
 		text-align: center;
 		padding-top: 220px;
@@ -136,22 +133,13 @@ h3 {
 
 	}
 
-	.roll_down_wrapper{
-		text-align: center;
-
-		.roll_down{
-			position: absolute;
-			bottom: 40px;
-		}
-	}
-
 }
 
 
 
 /* ....................................................
 
-	GENERAL BLOVKS AND TEXT STYLES
+	GENERAL BLOcKS AND TEXT STYLES
 
 ....................................................... */
 
@@ -161,8 +149,72 @@ h3 {
 }
 
 .border_bottom {
-	border-bottom: 1px solid #e9eff3;
+	border-bottom: 3px solid #e9eff3;
 }
+
+
+
+/*............... skills and experience...............*/
+
+.experience_block{
+	padding-top: 0;
+	
+	.main_blue_title{
+		text-transform: uppercase;
+		color: #0070bb;
+		font-size: 42px;
+		font-family: @mainfont;
+		font-weight: bold;
+	}
+
+	.full_name{
+		color: rgb(1, 1, 1);
+		font-size: 18px;
+		font-weight: bold;
+		font-family: @mainfont;
+		//line-height: 1.556;
+		//margin-bottom: 0;
+		margin-top: 35px;
+	}
+
+	.age{
+		color: rgb(1, 1, 1);
+		font-size: 18px;
+		font-family: @mainfont;
+		//line-height: 1.556;
+		//margin-bottom: 0;
+	}
+
+	.city{
+		color: rgb(1, 1, 1);
+		font-size: 18px;
+		font-family: @mainfont;
+		//line-height: 1.556;
+		//margin-bottom: 0;
+	}
+
+	.skills_block_main_title{
+		color: rgb(1, 1, 1);
+		font-size: 24px;
+		font-family: @mainfont;
+		font-weight: bold;
+		margin-top: 35px;
+	}
+
+	.check{
+		margin-right: 15px;
+	}
+
+	.title_bold{
+		font-weight: bold;
+		margin-bottom: 0;
+	}
+
+}
+
+
+
+
 
 
 
