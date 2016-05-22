@@ -1,4 +1,22 @@
 $(document).ready(function() {
+    
+
+
+
+
+    // PORTFOLIO LINK ANIMATE
+    $(".thumbnail").hover(function(){
+        $(this).find(".link-more").stop().animate({
+            bottom:0
+        }, 250);
+    }, function () {
+        $(this).find(".link-more").stop().animate({
+            bottom: -250
+        }, 250);
+    });
+    
+
+  
 	
 	/* Page Scroll to id fn call */
 	$("nav a,a[href='#top'],a[rel='m_PageScroll2id'],a.PageScroll2id").mPageScroll2id({
