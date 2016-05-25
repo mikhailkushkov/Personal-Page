@@ -2,3 +2,5 @@ app/bower
 node_modules
 *.sublime-project
 *.sublime-workspace
+*.sublime-workspace
+personal-page.sublime-workspace

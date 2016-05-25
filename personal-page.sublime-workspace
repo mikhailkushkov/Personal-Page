@@ -220,30 +220,43 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\n	<meta charset=\"UTF-8\">\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n	<!-- Commented initial-scale=1.0 - to destroy Resonsive support -->\n	<!-- <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> -->\n	<link rel=\"shortcut icon\" href=\"img/favicon.png\" />\n    <link rel=\"apple-touch-icon\" href=\"img/apple-touch-icon.png\">\n	\n	<!-- Titles -->\n	<title>Personal Page</title>\n    <meta name=\"keywords\" content=\"Обучение верстке, обучение созданию сайтов, HTML курсы, обучение HTML5, курс по верстке, курс по созданию сайтов, верстка для новичков, создание сайтов для новичков\">\n    <meta name=\"description\" content=\"Обучение верстке сайтов и созданию сайтов HTML5 + CSS3. Курс по верстке и основам основам создания сайтов. Продолжительность 4 недели.\">\n\n	<!-- build:css css/vendor.min.css -->\n		<link rel=\"stylesheet\" href=\"bower/bootstrap/dist/css/bootstrap.min.css\">\n\n		<!-- bower:css -->\n		<link rel=\"stylesheet\" href=\"bower/qtip2/jquery.qtip.min.css\" />\n		<!-- endbower -->\n		<link rel=\"stylesheet\" href=\"fonts/raleway/raleway.css\">\n		<link rel=\"stylesheet\" href=\"bower/font-awesome/css/font-awesome.min.css\">\n		<link rel=\"stylesheet\" href=\"bower/owl-carousel/owl-carousel/owl.carousel.css\">\n		<!-- <link rel=\"stylesheet\" href=\"bower/owl-carousel/owl-carousel/owl.theme.css\"> -->\n		<link rel=\"stylesheet\" href=\"css/owl.theme.css\">\n	<!-- endbuild -->\n\n	<!-- build:css css/styles.min.css -->\n		<link rel=\"stylesheet\" href=\"css/main.css\">\n	<!-- endbuild -->\n\n	<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"img/favicons/apple-touch-icon-57x57.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"img/favicons/apple-touch-icon-60x60.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"img/favicons/apple-touch-icon-72x72.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"img/favicons/apple-touch-icon-76x76.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"img/favicons/apple-touch-icon-114x114.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"img/favicons/apple-touch-icon-120x120.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"img/favicons/apple-touch-icon-144x144.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"img/favicons/apple-touch-icon-152x152.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"img/favicons/apple-touch-icon-180x180.png\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/favicon-32x32.png\" sizes=\"32x32\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/android-chrome-192x192.png\" sizes=\"192x192\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/favicon-96x96.png\" sizes=\"96x96\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/favicon-16x16.png\" sizes=\"16x16\">\n	<link rel=\"manifest\" href=\"img/favicons/manifest.json\">\n	<!-- <link rel=\"mask-icon\" href=\"img/favicons/safari-pinned-tab.svg\" color=\"#5bbad5\"> -->\n	<link rel=\"mask-icon\" href=\"img/favicons/safari-pinned-tab.svg\">\n	<link rel=\"shortcut icon\" href=\"img/favicons/favicon.ico\">\n	<meta name=\"apple-mobile-web-app-title\" content=\"HTML курс - обучение\">\n	<meta name=\"application-name\" content=\"HTML курс - обучение\">\n	<meta name=\"msapplication-TileColor\" content=\"#da532c\">\n	<meta name=\"msapplication-TileImage\" content=\"img/favicons/mstile-144x144.png\">\n	<meta name=\"msapplication-config\" content=\"img/favicons/browserconfig.xml\">\n	<meta name=\"theme-color\" content=\"#ffffff\">\n\n	<meta property=\"og:url\" content=\"http://rightblog.ru/htmlcourse/\" />\n	<meta property=\"og:type\" content=\"website\" />\n	<meta property=\"og:title\" content=\"Обучение верстке сайтов HTML5 + CSS3. Основы создания сайтов за 4 недели.\" />\n	<meta property=\"og:description\" content=\"Научись верстать классные современные сайты. HTML и CSS с нуля до профи. Старт обучения - 1 апреля 2016 года.\" />\n	<meta property=\"og:image\" content=\"http://rightblog.ru/htmlcourse/img/facebook_big_img.png\" />\n\n\n\n</head>\n<body>\n\n<!--[if lt IE 8]>\n    <p class=\"browserupgrade\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n<![endif]-->\n\n<!-- .................................................................\n\n		HEADER - Michail\n\n ................................................................. -->\n\n\n<div class=\"header_BG\">\n	\n\n<!-- ..............navigation.................. -->\n\n	<div class=\"nav\">\n		<div class=\"logo\">\n			<a href=\"#\">Mikhail Kushkov</a>\n		</div>\n		<ul class=\"main_nav clearfix\">\n			<!-- <li class=\"name\"><a href=\"#\">Mikhail Kushkov</a></li> -->\n			<li><a href=\"#\">Main</a></li>\n			<li><a href=\"#\">Portfolio</a></li>\n			<li><a href=\"#\">Contacts</a></li>\n		</ul>\n	</div>\n\n<!-- ..............///navigation.................. -->\n\n	<div class=\"title_wrapper\">\n		<h1 class=\"main_title\">Web-Developer55</h1>\n		<h3 class=\"sub_title\">Making of UI Interfaces with JavaScript/HTML5/CSS3</h3>\n	</div>\n\n\n	<!-- <div class=\"roll_down_wrapper\"> -->\n		<!-- <a href=\"#\"><img src=\"img/rollDown.png\" class=\"roll_down\"></a> -->\n	<!-- </div> -->\n\n	\n		<a class=\"mouse_scroll\" href=\"#solution\" rel='m_PageScroll2id'>\n\n				<div class=\"mouse\">\n					<div class=\"wheel\"></div>\n				</div>\n				<div>\n					<span class=\"m_scroll_arrows unu\"></span>\n					<span class=\"m_scroll_arrows doi\"></span>\n					<span class=\"m_scroll_arrows trei\"></span>\n				</div>\n		</a>\n\n</div>\n\n\n\n<!-- .................................................................\n\n		DESCRIPTION - Yurij\n\n ................................................................. -->\n<div class=\"section_padding border_bottom\">\n<div class=\"container\">\n	<div class=\"row\">\n		<div class=\"col-md-1\">\n			<div class=\"icon\">\n				<img src=\"img/icon.laptop.svg\" alt=\"HTML5/CSS3 верстка на заказ\">\n			</div>\n		</div>\n		<div class=\"col-md-5\">\n			<h3 class=\"margint-top-0\">HTML5/CSS3 верстка на заказ</h3>\n			<p>Делаю верстку веб сайтов, порталов, интернет-магазинов, интерфейсов веб-приложений. Адптивная, кроссбраузерная, валидная, правильная семантическая верстка по современным стандартам качества.</p>\n		</div>\n		<div class=\"col-md-1\">\n			<div class=\"icon\">\n				<img src=\"img/icon_mobile.svg\" alt=\"Поддержка онлайн проектов\">\n			</div>\n		</div>\n		<div class=\"col-md-5\">\n			<h3 class=\"margint-top-0\">Поддержка онлайн проектов</h3>\n			<p>Готов оказывать подержку вашего онлайн проекта. Верстка, наполнение контентом с HTML5 разметкой, подержка при разработке и сопровождение крупных проектов.</p>\n		</div>	\n	</div>\n</div>\n</div>\n\n\n<br>\n<br>\n<br>\n<br>\n<br>\n\n\n<!-- .................................................................\n\n		RESUME - Michail\n\n ................................................................. -->\n\n\n\n\n\n<!-- .................................................................\n\n		PORTFOLIO - Yurij\n\n ................................................................. -->\n\n\n\n\n\n<!-- .................................................................\n\n		FOOTER - Michail\n\n ................................................................. -->\n\n\n\n\n\n\n\n<!--[if lt IE 9]>\n<script src=\"js/html5shiv/es5-shim.min.js\"></script>\n<script src=\"js/html5shiv/html5shiv.min.js\"></script>\n<script src=\"js/html5shiv/html5shiv-printshiv.min.js\"></script>\n<script src=\"js/html5shiv/respond.min.js\"></script>\n<![endif]-->\n\n\n<!-- build:js js/vendor.min.js -->\n	<script src=\"bower/jquery/dist/jquery.js\"></script>\n	<!-- bower:js -->\n	<script src=\"bower/bPopup/jquery.bpopup.js\"></script>\n	<script src=\"bower/qtip2/jquery.qtip.min.js\"></script>\n	<script src=\"bower/bootstrap/dist/js/bootstrap.js\"></script>\n	<!-- endbower -->\n	<script src=\"js/pagescroll2id/jquery.malihu.PageScroll2id.js\"></script>\n	<script src=\"bower/owl-carousel/owl-carousel/owl.carousel.min.js\"></script>\n	<script src=\"js/jquery.validate.js\"></script>\n	<!--  <script src=\"bower/bPopup/jquery.bpopup.min.js\"></script> -->\n\n<!-- endbuild -->\n\n<!-- build:js js/user.min.js -->\n	<script src=\"js/main.js\"></script>\n<!-- endbuild -->\n\n\n\n</body>\n</html>",
 			"file": "app/index.html",
-			"file_size": 8901,
-			"file_write_time": 131078752561694364,
 			"settings":
 			{
-				"buffer_size": 7930,
+				"buffer_size": 11430,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/less/utils/utils.less",
+			"settings":
+			{
+				"buffer_size": 2426,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "app/less/main.less",
 			"settings":
 			{
-				"buffer_size": 3252,
+				"buffer_size": 5585,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/less/mouse_scroll_snippet.less",
+			"file": "app/js/main.js",
 			"settings":
 			{
-				"buffer_size": 2572,
+				"buffer_size": 5237,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/fonts/raleway/raleway.css",
+			"settings":
+			{
+				"buffer_size": 5305,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -313,12 +326,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/projects/Personal-Page",
-		"/C/projects/Personal-Page/app",
-		"/C/projects/Personal-Page/app/less"
+		"/C/workflow/personal_page",
+		"/C/workflow/personal_page/app",
+		"/C/workflow/personal_page/app/less",
+		"/C/workflow/personal_page/app/less/utils"
 	],
 	"file_history":
 	[
+		"/C/Users/Yurij/AppData/Local/Temp/Rar$DIa0.786/all.js",
+		"/C/workflow/personal_page/app/less/mouse_scroll_snippet.less",
 		"/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/index.html",
 		"/C/Users/Alienware/Desktop/raleway-webfont.css",
 		"/C/Users/Alienware/Desktop/15.03.2015/css/style.css",
@@ -434,7 +450,7 @@
 	],
 	"find":
 	{
-		"height": 46.0
+		"height": 74.0
 	},
 	"find_in_files":
 	{
@@ -471,7 +487,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -480,15 +496,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7930,
+						"buffer_size": 11430,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5555,
-								5555
+								5681,
+								5681
 							]
 						],
 						"settings":
@@ -498,7 +514,37 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4714.0,
+						"translation.y": 5037.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/less/utils/utils.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1876,
+								1876
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 3468.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -511,59 +557,47 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "app/less/main.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3252,
+						"buffer_size": 5585,
 						"regions":
 						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										2683,
+										2683
+									],
+									[
+										4842,
+										4842
+									]
+								],
+								"scope": "bookmarks"
+							}
 						},
 						"selection":
 						[
 							[
-								2454,
-								2454
+								3013,
+								3013
 							]
 						],
 						"settings":
 						{
 							"auto_indent": true,
-							"syntax": "Packages/LESS/LESS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 4120.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/less/mouse_scroll_snippet.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2572,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2045,
-								2045
-							]
-						],
-						"settings":
-						{
 							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4036.0,
+						"translation.y": 2718.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -571,6 +605,66 @@
 				},
 				{
 					"buffer": 3,
+					"file": "app/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/fonts/raleway/raleway.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1740.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "gulpfile.js",
 					"semi_transient": false,
 					"settings":
@@ -596,7 +690,7 @@
 						"translation.y": 172.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
