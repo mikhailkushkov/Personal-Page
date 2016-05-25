@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"max",
+				"maxlength"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
 				"num",
 				"numHours"
 			],
@@ -30,10 +46,6 @@
 			[
 				"n",
 				"name"
-			],
-			[
-				"max",
-				"maxName"
 			],
 			[
 				"ne",
@@ -220,13 +232,10 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\n	<meta charset=\"UTF-8\">\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n	<!-- Commented initial-scale=1.0 - to destroy Resonsive support -->\n	<!-- <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> -->\n	<link rel=\"shortcut icon\" href=\"img/favicon.png\" />\n    <link rel=\"apple-touch-icon\" href=\"img/apple-touch-icon.png\">\n	\n	<!-- Titles -->\n	<title>Personal Page</title>\n    <meta name=\"keywords\" content=\"Обучение верстке, обучение созданию сайтов, HTML курсы, обучение HTML5, курс по верстке, курс по созданию сайтов, верстка для новичков, создание сайтов для новичков\">\n    <meta name=\"description\" content=\"Обучение верстке сайтов и созданию сайтов HTML5 + CSS3. Курс по верстке и основам основам создания сайтов. Продолжительность 4 недели.\">\n\n	<!-- build:css css/vendor.min.css -->\n		<link rel=\"stylesheet\" href=\"bower/bootstrap/dist/css/bootstrap.min.css\">\n\n		<!-- bower:css -->\n		<link rel=\"stylesheet\" href=\"bower/qtip2/jquery.qtip.min.css\" />\n		<!-- endbower -->\n		<link rel=\"stylesheet\" href=\"fonts/raleway/raleway.css\">\n		<link rel=\"stylesheet\" href=\"bower/font-awesome/css/font-awesome.min.css\">\n		<link rel=\"stylesheet\" href=\"bower/owl-carousel/owl-carousel/owl.carousel.css\">\n		<!-- <link rel=\"stylesheet\" href=\"bower/owl-carousel/owl-carousel/owl.theme.css\"> -->\n		<link rel=\"stylesheet\" href=\"css/owl.theme.css\">\n	<!-- endbuild -->\n\n	<!-- build:css css/styles.min.css -->\n		<link rel=\"stylesheet\" href=\"css/main.css\">\n	<!-- endbuild -->\n\n	<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"img/favicons/apple-touch-icon-57x57.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"img/favicons/apple-touch-icon-60x60.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"img/favicons/apple-touch-icon-72x72.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"img/favicons/apple-touch-icon-76x76.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"img/favicons/apple-touch-icon-114x114.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"img/favicons/apple-touch-icon-120x120.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"img/favicons/apple-touch-icon-144x144.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"img/favicons/apple-touch-icon-152x152.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"img/favicons/apple-touch-icon-180x180.png\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/favicon-32x32.png\" sizes=\"32x32\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/android-chrome-192x192.png\" sizes=\"192x192\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/favicon-96x96.png\" sizes=\"96x96\">\n	<link rel=\"icon\" type=\"image/png\" href=\"img/favicons/favicon-16x16.png\" sizes=\"16x16\">\n	<link rel=\"manifest\" href=\"img/favicons/manifest.json\">\n	<!-- <link rel=\"mask-icon\" href=\"img/favicons/safari-pinned-tab.svg\" color=\"#5bbad5\"> -->\n	<link rel=\"mask-icon\" href=\"img/favicons/safari-pinned-tab.svg\">\n	<link rel=\"shortcut icon\" href=\"img/favicons/favicon.ico\">\n	<meta name=\"apple-mobile-web-app-title\" content=\"HTML курс - обучение\">\n	<meta name=\"application-name\" content=\"HTML курс - обучение\">\n	<meta name=\"msapplication-TileColor\" content=\"#da532c\">\n	<meta name=\"msapplication-TileImage\" content=\"img/favicons/mstile-144x144.png\">\n	<meta name=\"msapplication-config\" content=\"img/favicons/browserconfig.xml\">\n	<meta name=\"theme-color\" content=\"#ffffff\">\n\n	<meta property=\"og:url\" content=\"http://rightblog.ru/htmlcourse/\" />\n	<meta property=\"og:type\" content=\"website\" />\n	<meta property=\"og:title\" content=\"Обучение верстке сайтов HTML5 + CSS3. Основы создания сайтов за 4 недели.\" />\n	<meta property=\"og:description\" content=\"Научись верстать классные современные сайты. HTML и CSS с нуля до профи. Старт обучения - 1 апреля 2016 года.\" />\n	<meta property=\"og:image\" content=\"http://rightblog.ru/htmlcourse/img/facebook_big_img.png\" />\n\n\n\n</head>\n<body>\n\n<!--[if lt IE 8]>\n    <p class=\"browserupgrade\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n<![endif]-->\n\n<!-- .................................................................\n\n		HEADER - Michail\n\n ................................................................. -->\n\n\n<div class=\"header_BG\">\n	\n\n<!-- ..............navigation.................. -->\n\n	<div class=\"nav\">\n		<div class=\"logo\">\n			<a href=\"#\">Mikhail Kushkov</a>\n		</div>\n		<ul class=\"main_nav clearfix\">\n			<!-- <li class=\"name\"><a href=\"#\">Mikhail Kushkov</a></li> -->\n			<li><a href=\"#\">Main</a></li>\n			<li><a href=\"#\">Portfolio</a></li>\n			<li><a href=\"#\">Contacts</a></li>\n		</ul>\n	</div>\n\n<!-- ..............///navigation.................. -->\n\n	<div class=\"title_wrapper\">\n		<h1 class=\"main_title\">Web-Developer55</h1>\n		<h3 class=\"sub_title\">Making of UI Interfaces with JavaScript/HTML5/CSS3</h3>\n	</div>\n\n\n	<!-- <div class=\"roll_down_wrapper\"> -->\n		<!-- <a href=\"#\"><img src=\"img/rollDown.png\" class=\"roll_down\"></a> -->\n	<!-- </div> -->\n\n	\n		<a class=\"mouse_scroll\" href=\"#solution\" rel='m_PageScroll2id'>\n\n				<div class=\"mouse\">\n					<div class=\"wheel\"></div>\n				</div>\n				<div>\n					<span class=\"m_scroll_arrows unu\"></span>\n					<span class=\"m_scroll_arrows doi\"></span>\n					<span class=\"m_scroll_arrows trei\"></span>\n				</div>\n		</a>\n\n</div>\n\n\n\n<!-- .................................................................\n\n		DESCRIPTION - Yurij\n\n ................................................................. -->\n<div class=\"section_padding border_bottom\">\n<div class=\"container\">\n	<div class=\"row\">\n		<div class=\"col-md-1\">\n			<div class=\"icon\">\n				<img src=\"img/icon.laptop.svg\" alt=\"HTML5/CSS3 верстка на заказ\">\n			</div>\n		</div>\n		<div class=\"col-md-5\">\n			<h3 class=\"margint-top-0\">HTML5/CSS3 верстка на заказ</h3>\n			<p>Делаю верстку веб сайтов, порталов, интернет-магазинов, интерфейсов веб-приложений. Адптивная, кроссбраузерная, валидная, правильная семантическая верстка по современным стандартам качества.</p>\n		</div>\n		<div class=\"col-md-1\">\n			<div class=\"icon\">\n				<img src=\"img/icon_mobile.svg\" alt=\"Поддержка онлайн проектов\">\n			</div>\n		</div>\n		<div class=\"col-md-5\">\n			<h3 class=\"margint-top-0\">Поддержка онлайн проектов</h3>\n			<p>Готов оказывать подержку вашего онлайн проекта. Верстка, наполнение контентом с HTML5 разметкой, подержка при разработке и сопровождение крупных проектов.</p>\n		</div>	\n	</div>\n</div>\n</div>\n\n\n<br>\n<br>\n<br>\n<br>\n<br>\n\n\n<!-- .................................................................\n\n		RESUME - Michail\n\n ................................................................. -->\n\n\n\n\n\n<!-- .................................................................\n\n		PORTFOLIO - Yurij\n\n ................................................................. -->\n\n\n\n\n\n<!-- .................................................................\n\n		FOOTER - Michail\n\n ................................................................. -->\n\n\n\n\n\n\n\n<!--[if lt IE 9]>\n<script src=\"js/html5shiv/es5-shim.min.js\"></script>\n<script src=\"js/html5shiv/html5shiv.min.js\"></script>\n<script src=\"js/html5shiv/html5shiv-printshiv.min.js\"></script>\n<script src=\"js/html5shiv/respond.min.js\"></script>\n<![endif]-->\n\n\n<!-- build:js js/vendor.min.js -->\n	<script src=\"bower/jquery/dist/jquery.js\"></script>\n	<!-- bower:js -->\n	<script src=\"bower/bPopup/jquery.bpopup.js\"></script>\n	<script src=\"bower/qtip2/jquery.qtip.min.js\"></script>\n	<script src=\"bower/bootstrap/dist/js/bootstrap.js\"></script>\n	<!-- endbower -->\n	<script src=\"js/pagescroll2id/jquery.malihu.PageScroll2id.js\"></script>\n	<script src=\"bower/owl-carousel/owl-carousel/owl.carousel.min.js\"></script>\n	<script src=\"js/jquery.validate.js\"></script>\n	<!--  <script src=\"bower/bPopup/jquery.bpopup.min.js\"></script> -->\n\n<!-- endbuild -->\n\n<!-- build:js js/user.min.js -->\n	<script src=\"js/main.js\"></script>\n<!-- endbuild -->\n\n\n\n</body>\n</html>",
 			"file": "app/index.html",
-			"file_size": 8901,
-			"file_write_time": 131078752561694364,
 			"settings":
 			{
-				"buffer_size": 7930,
+				"buffer_size": 11430,
 				"line_ending": "Windows"
 			}
 		},
@@ -234,8 +243,59 @@
 			"file": "app/less/main.less",
 			"settings":
 			{
-				"buffer_size": 3252,
+				"buffer_size": 5585,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>lessonJS</title>\n	<link rel=\"stylesheet\" href=\"css/main.css\">\n	<link rel=\"stylesheet\" type=\"js/main.js\">\n</head>\n<body>\n\n<section class=\"first\">\n<p id=\"par\">hello world</p>\n<br>\n<br>\n<br>\n<br>\n<br>\n\n<button id=\"btn\">click me</button>\n\n<br>\n<br>\n<br>\n<br>\n<p>second paragraph</p>\n</section>\n\n\n	\n\n<script>\n\n\n		 /*function ravnobedr(a, b, c) {\n            if (a == b || b == c || a == c) {\n                alert(\"Равнобедренный\");\n            }\n\n            else {\n                alert(\"не равнобедренный\");\n            }\n        }\n        \n            ravnobedr(5,5,7);*/\n\n           \n\n            /*var a = 1, b = 1, c, d;\n\n			c = ++a; alert(c); // 2\n			d = b++; alert(d); // 1\n\n			c = (2+ ++a); alert(c); // 5\n			d = (2+ b++); alert(d); // 4\n\n			alert(a); // 3\n			alert(b); // 3*/\n\n			\n			/*var obj = {\n			age:34,\n			name: 'Mack',\n			gender: 'male'\n			}\n			alert(obj.age);\n			alert(obj.name);\n			alert(obj.gender);\n			delete obj.age;*/\n\n\n			/*var b = 3>5;\n			alert(b);*/\n\n			/*alert(undefined == null);*/\n\n			/*var a =8;\n\n			var b =4;\n\n			var c = a + b-- - b-- ;\n\n			alert(c);//9*/\n\n			/*var person = {name:'mike', age:34, gender:'male'};\n			for(key in person) alert(key +\": \" + person[key]);*/\n\n			/*var age = prompt('How old r u?');\n			alert('U r  '+ age +' years old.');*/\n\n\n			/*alert выводит сообщение.\n\n			prompt выводит сообщение и ждёт, пока пользователь введёт текст, а затем возвращает введённое значение или null, если ввод отменён (CANCEL/Esc).\n\n		confirm выводит сообщение и ждёт, пока пользователь нажмёт «OK» или «CANCEL» и возвращает true/false.*/\n\n			/*var isAdmin = confirm(\"Вы - администратор?\");\n			alert( isAdmin );*/\n\n			/*var name = prompt(\"What is your name?\", 'mike');\n			alert(\"your name is \" + name);*/\n\n\n			/*var check = confirm(\"Are u a customer?\", 'yes');\n			\n			if (check == true) {\n				var age = prompt(\"What is your age?\");\n				var ageVerification = confirm(\"Are you  \" + age +\"years old?\");\n			}\n			if (age > 18) {\n				alert(\"Welcome!\");\n			}\n			else {\n				alert(\"You are too young buddy, Goodbye\");\n			}*/\n\n\n\n			/*var year = prompt('How u think how old i am?');\n			if (year < 25) {\n				alert(\"Thank u !!\");\n			}\n			else{\n				alert(\"maybe u r wrong\");\n			}*/\n\n\n			/*var year = prompt('В каком году появилась спецификация ECMA-262 5.1?', '');\n\n			if (year < 2011) {\n  				alert( 'Это слишком рано..' );\n			} else if (year > 2011) {\n  				alert( 'Это поздновато..' );\n			} else {\n  				alert( 'Да, точно в этом году!' );\n			}*/\n\n\n			/*Последовательность операторов '?' позволяет вернуть значение в \n			зависимости не от одного условия, а от нескольких.\n\n			Вопросительный знак проверяет сначала age < 3, если верно – возвращает 'Здравствуй, малыш!', если нет – идет за двоеточие и проверяет age < 18. Если это верно – возвращает 'Привет!', иначе проверка age < 100 и 'Здравствуйте!'… И наконец, если ничего из этого не верно, то 'Какой необычный возраст!'.\n\n			var age = prompt(\"what is your age?\", 18);\n			var message = \n			(age < 6) ? \"hello kid\" :\n			(age < 21) ? \"Hi buddy!\" :\n			(age > 21 && age < 75) ? \"Hi man\" :\n			(age > 75) ? \"hello Mr.\":\n			'Какой необычный возраст!';\n			alert(message);*/\n\n			/*То же самое через if..else:*/\n\n			/*var age = prompt(\"age\");\n			var message;\n			if (age < 3) {\n  			message = 'Здравствуй, малыш!';\n			} else if (age < 18) {\n  			message = 'Привет!';\n			} else if (age < 100) {\n  			message = 'Здравствуйте!';\n			} else {\n  			message = 'Какой необычный возраст!';\n			}\n\n			alert(message);*/\n\n			/*\n			var answer = prompt(\"what is the right name of JavaScript\", '');\n			if (answer == 'ECMAScript') {\n				alert(\"right!\");\n			}\n			else {\n				alert(\"wrong, name is ECMAScript\");\n			}*/\n\n\n\n			/*var number = prompt(\"number\");\n			if (number > 0) {\n				alert(1);\n			}\n			else if (number < 0) {\n				alert(-1);\n			}\n			else {\n				alert(0);\n			}*/\n\n			/*\n\n			\"PROVERKA LOGINA\"\n\n			var login = prompt('login', '');\n			if (login == 'admin') {\n				var passwort = prompt('passwort', '');\n				if (passwort == 'dartwader') {\n					alert('welcome!');\n				}\n				else if (passwort != 'dartwader' && passwort != null) {\n					alert('wrong passwort!');\n				}\n				else {\n					alert('enter cancelled');\n				}\n				\n			}\n			else if (login != 'admin' && login != null) {\n				alert('i dont know you');\n			}\n			else{\n				alert('enter cancelled');\n			}\n			\n			*/\n\n\n\n			/*result = (a + b < 4) ? 'Мало' : 'Много';*/\n\n			\n			/*\n\n			var login = prompt(\"login\", '');\n			var message = (login == 'Вася') ? 'Привет':\n			(login == 'Директор') ? 'Здравствуйте':\n			(login == '') ? 'Нет логина':\n			'';\n			alert(message);\n\n			*/\n\n			/*\n			var hour = 12,\n  			Weekend = true;\n\n			if (hour < 10 || hour > 18 || Weekend == true) {\n  				alert( 'Офис до 10 или после 18 или в выходной закрыт' );\n			}\n			*/\n\n\n			/*\n\n			alert( null || 2 || undefined );//2\n			alert( alert(1) || 2 || alert(3) );//сначала 1, затем 2.Вызов alert не возвращает значения, или, иначе говоря, возвращает undefined. undefined || 2 будет 2.\n\n			alert( 1 && null && 2 );//null\n			alert( alert(1) && alert(2) );//Ответ: 1, а затем undefined, до правого alert дело не дойдёт, вычисления закончатся на левом.\n\n			alert( null || 2 && 3 || 4 );//3. Приоритет оператора && выше, чем ||, поэтому он выполнится первым.\n\n			\n\n			var age = prompt('age', '');\n			if (age >= 14 && age <= 90) {\n				alert(age);\n			}\n\n			if (age <= 14 && age >= 90) {\n				alert(age);\n			}*/\n\n			/*\n			Напишите условие if для проверки того факта, что age НЕ находится \n			между 14 и 90включительно.\n\n			Сделайте два варианта условия: первый с использованием оператора НЕ !, \n			второй – без этого оператора.\n\n			if (age < 14 && age > 90)\n			if (!(age >= 14 && age <= 90))*/\n\n				/*\n\n			В JavaScript есть три преобразования:\n\n			Строковое: String(value) – в строковом контексте или при сложении \n			со строкой. Работает очевидным образом.\n			Численное: Number(value) – в численном контексте, включая унарный \n			плюс +value. Происходит при сравнении разных типов, кроме строгого \n			равенства.\n			Логическое: Boolean(value) – в логическом контексте, можно также \n			сделать двойным НЕ: !!value.\n			Точные таблицы преобразований даны выше в этой главе.\n\n			Особым случаем является проверка равенства с null и undefined. Они \n			равны друг другу, но не равны чему бы то ни было ещё, этот случай \n			прописан особо в спецификации.\n			*/\n\n			/*\n			alert(\"\" + 1 + 0);//10  - Оператор \"+\" в данном случае прибавляет 1 как строку, и затем 0.\n			alert(\"\" - 1 + 0);//-1  -  Оператор \"-\" работает только с числами, так что он сразу приводит \"\" к 0.\n			alert(true + false);//1   -  true 1 + false 0 = 1.\n			alert(6 / \"3\");//2\n			alert(\"2\" * \"3\");//6\n			*/\n\n			/*\n			var i = 0;\n			while (i < 3) {\n  				alert( i );\n  				i++;\n			}\n\n			var i = 3;\n			while (i) { // при i, равном 0, значение в скобках будет false и цикл остановится\n  				alert( i );\n  				i--;\n			}\n			*/\n\n			/*\n			for (var i = 0; i < 10; i++) {\n  			if (i % 2 == 0) continue;\n  				alert(i);\n			}\n			Для чётных i срабатывает continue, выполнение тела \n			прекращается и управление передаётся на следующий проход for.\n\n			*/\n\n			/*\n\n			От 1 до 4\n\n			var i = 0;\n			while (++i < 5) alert( i );\n			Первое значение: i=1, так как операция ++i сначала увеличит i, \n			а потом уже произойдёт сравнение и выполнение alert.\n\n			Далее 2,3,4.. Значения выводятся одно за другим. Для каждого значения \n			сначала происходит увеличение, а потом – сравнение, так как ++ стоит \n			перед переменной.\n\n			При i=4 произойдет увеличение i до 5, а потом сравнение while(5 < 5) \n			– это неверно. Поэтому на этом цикл остановится, и значение 5 выведено \n			не будет.\n\n\n			От 1 до 5\n\n 			var i = 0;\n			while (i++ < 5) alert( i );\n			Первое значение: i=1. Остановимся на нём подробнее. Оператор i++ \n			увеличивает i, возвращая старое значение, так что в сравнении i++ < 5 \n			будет участвовать старое i=0.\n\n			Но последующий вызов alert уже не относится к этому выражению, \n			так что получит новый i=1.\n\n			Далее 2,3,4.. Для каждого значения сначала происходит сравнение, \n			а потом – увеличение, и затем срабатывание alert.\n\n			Окончание цикла: при i=4 произойдет сравнение while(4 < 5) – верно, \n			после этого сработает i++, увеличив i до 5, так что значение 5 будет \n			выведено. Оно станет последним.\n\n			*/\n			/*\n			for (var i = 2; i <= 10; i++) {\n  			if (i % 2) continue;\n  				alert(i);\n			}\n			*/\n\n\n			/*\n			for (var i = 0; i < 3; i++) {\n  				alert( \"номер \" + i + \"!\" );\n			}*/\n\n			/*\n\n			var i = 0;\n			while(i < 3) {\n				alert( \"номер \" + i + \"!\" );\n				i++;\n			}*/\n\n\n			/*\n\n			do {\n				var number = prompt('enter a number which more than 100', '');\n				\n			} \n			while (number <= 100 && number != null);\n			alert(number);\n			\n			*/\n\n\n			/*\n			for (var i = 2; i <= 10; i++) {\n      		if (i % 2 == 0) {\n        		alert( i );\n      			}\n			}\n			*/\n\n			/*\n			outer: \n			for (i = 2; i < 10; i++) {	\n				for (j = 2; j < i; j++) {\n				\n			if (i % j ==0) continue outer;	\n			}\n				alert(\"простое \" + i);//выводит уже конечные результаты\n			}\n			*/\n\n\n\n			/* S W I T C H */\n\n			/*\n\n			var a = 2 + 2;\n			switch (a) {\n				case 3 :\n					alert('few');\n					break;\n				case 4:\n					alert('exatly!');\n					break;\n				case 5: \n					alert('too much');\n					break;\n				default:\n					alert('try again..');\n			}\n			*/\n\n			/*\n			var arg = prompt('enter arg', '');\n			switch(arg) {\n				case '0':\n				case '1':\n					alert('0 or 1');\n				case '2':\n					alert('2');\n					break;\n				case 3:\n					alert('not working');\n				default:\n					alert('unknown value ' + arg);\n			}\n			*/\n\n\n			/*\n\n			var browser = prompt('your browser','');\n				if (browser == 'IE') {\n					alert('О, да у вас IE!');\n				}\n				else if (browser == 'Chrome' \n					|| browser == 'Firefox' \n					|| browser == 'Safari' \n					|| browser == 'Opera') {\n						alert('Да, и эти браузеры мы поддерживаем');\n				}\n					\n				else{\n					alert( 'Мы надеемся, что и в вашем браузере все ок!' );\n				}\n\n				*/\n\n				/*\n				var a = +prompt('a?', '');\n				switch (a) {\n					case 0:\n						alert('0');\n						break;\n					case 1:\n						alert('1');\n						break;\n					case 2:\n					case 3:\n						alert(\"2,3\");\n				}\n\n				*/\n				\n\n				/*\n				function showMessage() {\n					var message = \"Hi, im Mike\";\n  					alert(message);\n				}\n				showMessage();\n				*/\n\n\n				/*\n				function count(){\n					for (var i = 0; i < 3; i++) {\n						var j = i * 2;\n					}\n					alert(i);\n					alert(j);\n				}\n				count();*/\n\n\n				/*\n				var userName = 'Вася';\n				function showMessage() {\n  					var userName = 'Петя'; // (1) присвоение во внешнюю переменную\n  				var message = 'Привет, я ' + userName;\n  					alert( message );\n				}\n\n				showMessage();\n				alert( userName ); */\n\n				/*\n				function showMessage(from, text) {\n					from = '**' + from + '**';\n						alert(from + ':' + text);\n				}\n\n				var from = 'Mike';\n				showMessage(from, \"Hello\");\n\n				alert(from);*/\n\n				/*\n\n				function checkAge(age) {\n  					if (age > 18) {\n    				return true;\n  				}  \n    				return confirm('Родители разрешили?');\n  					\n				}\n\n				var age = prompt('Ваш возраст?');\n\n					if (checkAge(age)) {\n  						alert( 'Доступ разрешен' );\n					} else {\n  						alert( 'В доступе отказано' );\n						}\n				*/\n\n				/*\n				function checkAge(age) {\n  					if (age > 18) {\n    					return true;\n  					} else {\n   						return confirm('Родители разрешили?');\n  					}\n				}*/\n\n				/*\n				function checkAge(age) {\n					age = (age > 18) ? true : confirm('Родители разрешили?');\n				}\n				console.log(checkAge(59));\n\n				function checkAge(age) {\n					age = (age > 18) || confirm('Родители разрешили?');\n				}\n				console.log(checkAge(5));*/\n\n\n				/*\n\n				Напишите функцию min(a,b), которая возвращает меньшее из чисел a,b.\n				function min(a, b) {\n					if (a > b) {\n						return b;\n					}\n					else{\n						return a;\n					}\n				}\n				console.log(min(9, 5));\n				console.log(min(3, -9));\n				console.log(min(5, 5));\n				*/\n\n\n				/*Напишите функцию pow(x,n), которая возвращает x в степени n. \n				Иначе говоря, умножает x на себя n раз и возвращает результат.\n\n				\n				function pow(x, n) {\n  					var result = x;\n\n  					for (var i = 1; i < n; i++) {\n    					result *= x;\n  					}\n\n  					return result;\n				}\n\n				var x = prompt(\"x?\", '');\n				var n = prompt(\"n?\", '');\n\n				if (n <= 1) {\n  					alert('Степень ' + n +\n    				'не поддерживается, введите целую степень, большую 1'\n  					);\n				} else {\n  					alert( pow(x, n) );\n				}*/\n\n\n				/*\n				setTimeout (function() {\n					alert('world');\n				}, 1000);\n\n				alert('hello');*/\n\n\n				/*\n				var power = function(base, exponent) {\n  				var result = 1;\n  					for (var count = 0; count < exponent; count++)\n    				result = result * base;\n  				return result;\n				};\n\n				console.log(power(2, 10));*/\n\n\n\n\n\n\n\n\n				/* ...............I M P O R T A N T................... */	\n				/*\n				var x = 'outside';\n\n				var f2 = function() {\n  					var x = \"inside f2\";\n  					console.log(x); // inside f2 - because inside f2 is local.\n				};\n\n				f2();\n\n				console.log(x); // outside - because outside is global.*/\n\n\n\n\n\n\n				/*\n\n				function greet(who) {\n  					alert(\"Привет, \" + who);\n				};\n				greet(\"Семён\");\n\n				alert(\"Покеда\");*/\n\n\n				/*****************************************************/\n\n				/*\n				\n				function multiplier(factor) {\n  					return function(number) {\n    					return number * factor;\n  						};\n				}\n\n				var twice = multiplier(2);\n				console.log(twice(5));\n				*/\n\n				/********************************************************/\n\n				/*\n				function min(a, b) {\n					if (a > b) {\n						return b;\n					}\n					else {\n						return a;\n					}\n				}\n				console.log(min(0, 10));\n				console.log(min(0, -10));*/\n\n\n\n				/*\n				alert (Math.min(1, 2));\n				*/\n\n\n\n				/*\n				Когда в программе больше одной инструкции, они выполняются сверху вниз. \n				В этом примере у программы две инструкции. Первая спрашивает число, \n				вторая, выполняемая следом, показывает его квадрат.\n\n\n				var theNumber = Number(prompt(\"Выбери число\", \"\"));\n					alert(\"Твоё число – квадратный корень из \" +  theNumber * theNumber);\n\n\n				Функция Number преобразовывает величину в число. Нам это нужно, \n				потому что prompt возвращает строку. Есть сходные функции \n				String и Boolean, преобразующие величины в соответствующие типы.\n				*/\n\n\n				/*\n				var number = 0;\n				while (number <= 12) {\n  					console.log(number);\n  				number = number + 2;\n				}*/\n\n				/*\n				function sayHi() {   // \"создаcт функцию и помести её в переменную sayHi\"\n  					alert( \"Привет\" );\n					}\n\n					var func = sayHi;    // копируем функцию в новую переменную func. Ещё раз обратите внимание: после sayHi нет скобок. Если бы они были, то вызов var func = sayHi() записал бы в func результат работы sayHi() (кстати, чему он равен? правильно, undefined, ведь внутри sayHi нет return).\n\n					func(); // Привет    // На момент функцию можно вызывать и как sayHi() и как func()\n\n					sayHi = null;\n					sayHi(); // ошибка, значение переменной можно поменять. При этом, если оно не функция, то вызов выдаст ошибку.  \n					\n					*/\n\n\n\n					/************************ ZAMYKANIE*************************/\n					/*\n					var global_var = \"you\";\n					function mega_func() {\n   						var local_var = \"user\";\n   						alert('Hey, ' + global_var); // Hey, you\n					}\n\n					mega_func();\n\n					alert('Hey, ' + local_var); // error: local_var is not defined (ne videt ee).\n\n					извне функции mega_func() доступа к переменной local_var нет, \n					т.е. в глобальном пространстве её не видно. Однако, в javascript \n					интересно устроены области видимости: хотя извне доступа к \n					содержимому функции нет, но функция имеет доступ к глобальному \n					содержимому. В нашем примере именно этот механизм позволяет алерту \n					внутри mega_func получить содержимое глобальной переменной \n					global_var. Именно это имеется в виду под \"замыканием\", \n					mega_func замкнула на себе переменную global_var.\n					*/\n					/**************************************************************/\n\n					/*\n					Теперь про анонимные функции. Часто бывает, что функция нужна единожды, \n					т.е. только в одном месте. Например, в обработчиках событий, для \n                    map/reduce операций и т.д. В таком случае незачем засорять код \n                    лишними функциями с именами, достаточно создать анонимную (без имени) \n                    функцию там, где необходимо. Переписать пример выше с \n                    использованием анонимной функции можно так:\n\n                    var global_var = 'you';\n                    var anon_func = function() {\n                    	var local_var = 'user';\n                    	alert('Hey ' + global_var);\n                    }\n                    anon_func();\n\n                    /*\n                    Тут мы функцию записали в переменную anon_func и после её запустили. \n                    А вот опять тоже самое, но вообще без лишних переменных и имен:\n\n                    var global_var = 'you';\n                    (function() {\n                    	var local_var = 'user';\n                    	alert('Hey ' + global_var);\n                    })();\n\n                    /*\n                    в первых скобках содержится наша анонимная функция, а вторые скобки \n                    её тут же запускают! Такой приём часто используют, когда хотят чтобы \n                    какой-то кусок кода был изолирован от воздействия извне, но сам при \n                    этом имел доступ к глобальным переменным и функциям.*/\n\n                    /*Another example of ANONIMOUS FUNCTION:\n\n                    function ask (question, yes, no) {\n                    	if (confirm (question)) \n                    		yes();\n                    		else \n							no();\n                    }\n\n                    ask(\n                    	\"Вы согласны?\",\n                    	function() {alert(\"Вы согласились.\"); },\n                    	function() {alert(\"Вы отменили выполнение.\"); }\n                    	);\n\n                    /*Здесь функции объявлены прямо внутри вызова ask(...), даже без \n                    присвоения им имени.\n					Функциональное выражение, которое не записывается в переменную, \n					называют анонимной функцией.\n					Действительно, зачем нам записывать функцию в переменную, \n					если мы не собираемся вызывать её ещё раз? Можно просто \n					объявить непосредственно там, где функция нужна.*/\n\n\n					/*\n					function sayHello() {\n						return 'Hello!';\n					}\n\n					var a = sayHello();  \n					alert (a); // Hello!  -  return vozvratil znachenie funkcyi i zapisal ego v peremennuju \"a\".\n					*/\n\n\n					/*\n					function sayHello() {\n						return 'sayHello' + ' ' + \"Mike\"; // sayHello Mike\n					}\n\n					var a = alert(sayHello()); */\n\n\n					/*\n					var x = function y() {\n						x();	\n					}\n					x();*/\n\n\n\n					/*\n					function myFunc(theObject) {\n  						theObject.make = \"Toyota\";\n					}\n\n					var mycar = {make: \"Honda\", model: \"Accord\", year: 1998};\n					var x, y;\n\n					x = mycar.make; // x gets the value \"Honda\"\n\n					myFunc(mycar);\n					y = mycar.make; // y gets the value \"Toyota\"\n                	// (the make property was changed by the function)*/\n\n\n                	/*\n                	if (false) {\n                		var x = 8;\n                	}\n\n                	alert(x); // undefined*/\n\n\n\n                	/*\n                	var myScope = 'global';\n                	(function() {\n                		var myScope = 'function';\n                		alert('inside the function a scope is ' + myScope);\n\n                	}) ();\n\n                	alert('outside the function a scope is ' + myScope);*/\n\n\n                	/*\n\n                	window.onload = function() {\n                		document.getElementById('btn') .onclick = showChanges;\n                	}\n                	\n\n                	function showChanges() {\n                		document.getElementById('par') .innerHTML = 'Other name';\n                	}\n\n                	var listOfElements = document.getElementsByTagName('p');\n                	alert('number of paragraphs is :' + listOfElements.length);\n\n                	var Paragraph = listOfElements[0];\n                	alert(Paragraph.innerHTML);\n                	alert(Paragraph.parentNode.nodeName);*/\n\n\n\n\n                	/* ............. VARIABLE HOISTING / PODNJATIE ..................*/\n\n                	//var a = 5;\n                	/*\n                	(function() {\n                		alert(a); // undefined!! - variable hoisting/ podnjatie.\n                		var a = 11;\n                	}) ();\n\n                	alert(a); // a - is not defined \n                	*/\n\n\n\n                	//var inner = 6;\n                	/*\n                	var addTo = function(passed) {\n\n                		var add = function(inner) {\n                			\n                			return passed + inner;\n                			\n                		};\n\n                		return add;\n\n                	};\n\n\n                	var addFive = new addTo(5);\n                	var addSix = new addTo(6);\n\n                	console.log(addFive(2));\n                	console.log(addSix(9));\n					*/\n\n\n\n					/*\n					function pow(x, n) {\n						if (n !=1) {\n							return x * pow(x, n-1);\n						}\n						else{\n							return x;\n						}\n					}\n\n					alert(pow(2, 3));*/\n\n\n\n					/*\n					Напишите функцию sumTo(n), которая для данного n \n					вычисляет сумму чисел от 1 до n, например:\n\n					sumTo(1) = 1\n					sumTo(2) = 2 + 1 = 3\n					sumTo(3) = 3 + 2 + 1 = 6\n					sumTo(4) = 4 + 3 + 2 + 1 = 10\n					...\n					sumTo(100) = 100 + 99 + ... + 2 + 1 = 5050\n\n					/* ........... С использованием цикла ............*/\n\n					/*\n\n					function sumTo(n) {\n\n					var result = n;\n					if (n > 1) {\n						for (var i = 0; i < n; i++) {\n							result += i;\n						};\n						return result;\n					}\n					else{\n						return n;\n					}\n\n					}\n\n					alert(sumTo(10)); */\n\n					/* ........... Через рекурсию ............*/\n					/*\n					function sumTo(n) {\n						if (n > 1) {\n							return n + sumTo(n-1);\n						}\n						else{\n							return n;\n						}\n					}\n\n					alert(sumTo(1000));*/\n\n\n\n					/*\n\n					Вычислить факториал:\n					Факториа́л числа – это число, умноженное на «себя минус один», \n					затем на «себя минус два» и так далее, до единицы. \n					Обозначается n!\n\n					Определение факториала можно записать как:\n\n					n! = n * (n - 1) * (n - 2) * ...*1\n\n					Задача – написать функцию factorial(n), которая возвращает \n					факториал числа n!, используя рекурсивный вызов.\n					Подсказка: обратите внимание, что n! можно записать как \n					n * (n-1)!. Например: 3! = 3*2! = 3*2*1! = 6\n\n					результат функции для n можно получить как n, умноженное на \n					результат функции для n-1, и так далее до 1!:\n\n\n					function factorial(n) {\n						if (n != 1) {\n						return n * factorial(n-1);\n						}\n						else{\n							return 1;\n						}\n					}\n\n					alert(factorial(5));\n\n					ili koroche: \n					function factorial(n) {\n  						return (n != 1) ? n * factorial(n - 1) : 1;\n					}\n\n					alert( factorial(5) );\n					*/\n\n					\n\n					/*var f = function sayHello(name) {\n						alert(sayHello);\n					};\n					f();\n\n					alert (sayHello);*/\n\n\n					/*var f = function factorial(n) {\n  						return n ? n*factorial(n-1) : 1;\n					};\n\n					var g = f;  // скопировали ссылку на функцию-факториал в g\n					//f = null;\n\n					alert( g(5) ); // 120, работает!*/\n\n\n					/* ........................................................................*/\n					/*\n					function g() {\n						return 1;\n					}\n					alert(g); // shows functions code\n					\n					\n\n					(function g() {\n						return 1;\n					});\n					alert(g); // g is not defined!!!!!\n					\n					Во втором коде скобки есть, значит функция внутри является не Function Declaration, а частью выражения, то есть Named Function Expression. Его имя видно только внутри, снаружи переменная g не определена.\n\n					/*............................. ////////........................................*/\n					\n					\n\n					/*\n					var sum = function x(a, b) {\n					\n						return a + b;\n						\n						\n					};\n\n					var next = sum;\n\n					alert(next(5, 8));*/\n\n\n					/*alert(\"hello world\".length);*/\n\n					/*var n = 0/0;\n					alert(isNaN(\"7\"));//false*/\n\n\n\n\n					/*\n					var x = +prompt(\"number\", \"\");\n					var y = +prompt(\"number\", \"\");\n						var sum = x + y;\n					if (isNaN(sum)) {\n  						alert( \"Строка преобразовалась в NaN. Не число\" );\n					} else {\n  						alert( sum );\n					}*/\n\n\n					/*\n					var preis1 = +prompt(\"summe\",\"\");\n					var preis2 = +prompt(\"summe\",\"\");\n					var sum = preis1 + preis2;\n						alert( Math.round(sum * 100) / 100 ); */\n\n					/*\n					var price1 = 0.178, price2 = 56.2;\n					alert( +(price1 + price2).toFixed(2) );\n					*/\n\n					/*\n					function getRandomNum() {\n						return( Math.random() * (max - 0) + 0\n					}*/\n\n					/*var max = 15;\n					alert(Math.random() * max);*/\n\n\n\n					/*\n					var min = 6;\n					var max = 8;\n					alert(Math.random() * (max - min) + min);*/\n\n					/*\n					var str = \"widget\";\n					alert(str.indexOf(\"et\"));// 4\n					*/\n\n\n					/*\n					Чтобы найти все вхождения подстроки, нужно запустить indexOf \n					в цикле. Как только получаем очередную позицию – начинаем \n					следующий поиск со следующей.\n\n					Пример такого цикла:\n\n					var str = \"Ослик Иа-Иа посмотрел на виадук\"; // ищем в этой строке\n					var target = \"к\"; // цель поиска\n\n					var pos = 0;\n					while (true) {\n  						var foundPos = str.indexOf(target, pos);\n  						if (foundPos == -1) break;\n\n  					alert( foundPos ); // нашли на этой позиции\n  					pos = foundPos + 1; // продолжить поиск со следующей\n					}\n					*/\n\n					/*\n					function ucFirst(str) {\n\n						alert(str[0].toUpperCase() + str.slice(1));\n					}\n					ucFirst('mike');*/\n					\n\n\n					/*\n\n					function truncate(str, maxlength) {\n						var maxlength = 20;\n						if (str.length > maxlength) {\n							str = str.substr(0,17) + \"...\";\n						}\n							return str;\n							alert(str);\n					}\n					alert(truncate(\"Вот, что мне хотелось бы сказать на эту тему:\"));\n					*/\n\n\n\n\n					/*........................................................................*/\n					/*\n					'check spam function'\n\n					function checkSpam(str) {\n						var lowerStr = str.toLowerCase();\n						\n						if ( lowerStr.indexOf(\"viagra\")+1 || lowerStr.indexOf(\"xxx\")+1 ) {\n							alert(true);\n						}\n					\n						else {\n							alert(false);\n						}\n					}\n\n					checkSpam('buy ViAgRA now');\n					checkSpam('free xxxxx');\n					checkSpam('innocent rabbit');\n					*/\n					/*.................................................*/\n					/*\n					Создайте функцию extractCurrencyValue(str), которая будет из такой строки \n					выделять число-значение, в данном случае 120.\n\n					function extractCurrencyValue(str) {\n						alert( str.slice(1) );\n					}\n					extractCurrencyValue('$100');\n					*/\n\n\n\n					/*\n\n					var user = {\n					name: \"Вася\",\n					surname: \"Петров\",\n					name: \"Сергей\"\n					};\n\n					var counter = 0;\n\n					for (var key in user) {\n						counter++;\n					}\n\n					alert('there are : ' + counter + ' properties in object'); // 2 properties\n					*/\n\n\n\n\n					\n\n					/*\n					function isEmpty(obj) {  // snachala sozdaem funkcyju\n						\n						for(var key in obj) { \n							return false;\n						}\n						return true;\n					}\n\n					var schedule = {}; // sozdaem objekt\n\n					alert( isEmpty(schedule) ); // true\n\n					alert( isEmpty(schedule) ); // true\n\n					schedule[\"8:30\"] = \"подъём\"; // sozdaem svoestvo objekta\n\n					alert( isEmpty(schedule) ); // false\n					*/\n\n\n\n					/*\n					var salaries = {\n  					\"Вася\": 100,\n  					\"Петя\": 300,\n  					\"Даша\": 250\n					};\n\n					function summe(obj) {\n						var sum = 0;\n						for (key in obj) {\n							sum += obj[key];\n						}\n						return sum;\n					}\n\n					alert(summe(salaries));\n					*/\n\n					/*\n					var salaries = {\n  					\"Вася\": 100,\n  					\"Петя\": 300,\n  					\"Даша\": 250\n					};\n\n					var sum = 0;\n					for (var key in salaries) {\n  					sum += salaries[key];\n					}\n\n					alert( sum );\n					*/\n\n\n\n					/*\n					Есть объект salaries с зарплатами. Напишите код, который выведет имя \n					сотрудника, у которого самая большая зарплата.\n					Если объект пустой, то пусть он выводит «нет сотрудников».\n\n					var salaries = {\n  					\"Вася\": 100,\n 					\"Петя\": 300,\n  					\"Даша\": 250\n					};\n\n					var max = 0;\n					var maxName = \"\";\n\n					for(var key in salaries) {\n						if (max < salaries[key]) {\n							max = salaries[key];\n							maxName = key;\n						}\n					}\n\n					alert( maxName + \" :\" + max || \"нет сотрудников\");\n					*/\n\n\n					/*\n					var user = { name: 'mack'};\n					var admin = user;\n					admin.name = 'john';\n\n					alert(user.name); // john\n					alert(admin.name); // john\n					*/\n\n\n\n					/*\n					var user = {\n						name: 'mack',\n						age: 34\n					};\n\n					var clone = {};\n\n					for(var key in user) {\n						clone[key] = user[key];\n					}\n\n					clone.name = 30;\n\n					alert(user.age); //34\n					alert(clone.age); //30\n					*/\n\n\n					/*\n					'pop'\n					Удаляет последний элемент из массива и возвращает его:\n\n					var music = ['rap', 'jungle', 'classic'];\n					music.pop();\n					alert( music );\n					*/\n\n\n					\n					/*'push'\n					Добавляет элемент в конец массива:\n\n					var fruits = ['apple', 'ananas', 'grapefruit'];\n					fruits.push('dog');\n\n					alert( fruits );\n\n					alert( fruits.push() );\n\n					alert ( fruits.length );\n					*/\n\n\n\n					/*\n					'shift'\n					Удаляет из массива первый элемент и возвращает его:\n\n					var planets = ['earth', 'saturn', 'mars'];\n					planets.shift();\n\n					alert( planets ); // saturn,mars\n					*/\n\n\n					/*\n					'unshift'\n					Добавляет элемент в начало массива:\n\n					var planets = ['earth', 'saturn', 'mars'];\n					planets.unshift('jupiter');\n\n					alert( planets ); // jupiter,earth,saturn,mars\n					*/\n\n\n					/*Методы push и unshift могут добавлять сразу по несколько элементов:*\n\n					var planets = ['earth'];\n					planets.push('mars', 'jupiter');\n					planets.unshift('saturn', 'pluton');\n\n					alert(planets);*/\n\n\n\n					/*объект в функцию передаётся по ссылке:\n\n					function eat(arr) {\n  						arr.pop();\n					}\n\n					var arr = [\"нам\", \"не\", \"страшен\", \"серый\", \"волк\"]\n\n					alert( arr.length ); // 5\n					alert( eat(arr) ); //undefined\n					alert( eat(arr) ); //undefined\n					alert( arr ); //нам,не,страшен\n					alert( arr.length ); // 3, в функцию массив не скопирован, а передана ссылка*/\n\n\n\n					/*\n					var arr = [];\n					arr[100] = 6;\n					arr.num = 'five';\n\n					console.log(arr);\n					alert(arr.length);*/\n\n\n					/*\n					Как получить последний элемент из произвольного массива?\n					Последний элемент имеет индекс на 1 меньший, чем длина массива.\n\n					var goods = ['one', 'two', '5'];\n					var lastItem = alert( goods[goods.length - 1] );\n					*/\n\n\n					/*\n					var goods = [];\n					goods.push('computer');\n					alert(goods);\n					*/\n\n\n\n\n					/*\n					var styles = ['jazz', 'blues'];\n					console.log(styles);\n					styles.push('rock-n-roll');\n					console.log(styles);\n					styles[styles.length - 2] = 'classic';\n					console.log(styles);\n					styles.shift();\n					console.log(styles);\n					styles.unshift('rap', 'reggae');\n					console.log(styles);\n					*/\n\n\n\n\n					/*\n					Напишите код для вывода alert случайного значения из массива:\n\n					var arr = [\"Яблоко\", \"Апельсин\", \"Груша\", \"Лимон\"];\n\n					var rand = Math.floor(Math.random() * arr.length);\n					\n					alert(arr[rand]) ;*/\n\n\n\n\n					/*\n					var str = 'test';\n					alert( str.split('' , 2) ); // t,es\n					*/\n\n					/*\n					alert( new Array(3).join(\"ля\") );\n					*/\n\n\n					/*\n					var arr = [\"Я\", \"сейчас\", \"изучаю\", \"JavaScript\"];\n					// удалить 2 первых элемента\n					var removed = arr.splice(0, 2);\n\n					alert( removed ); //Я,сейчас (=> array of removed elements)\n					alert (arr); //изучаю,JavaScript\n					*/\n\n\n\n					/*\n					var arr = ['i', 'learn', 'JavaScript'];\n					arr.splice(2, 0, 'difficult', 'language');\n					alert(arr); //i,learn,difficult,language,JavaScript\n					*/\n\n\n					/*\n					function compareNumeric(a, b) {\n  						if (a > b) return 1;\n  						if (a < b) return -1;\n					}\n\n					var arr = [ 10, 2, 67, 89, 6, 77, 989, 0, 45, 5, 2 ];\n\n					arr.sort(compareNumeric);\n\n					alert(arr);  // \n					*/\n\n\n\n					/*\n					var obj = {\n  						className: 'open menu'\n					}\n\n					function addClass(obj, cls) {\n						var classes = obj.className ? obj.className.split(' ') : [];\n\n						for (var i = 0; i < classes.length; i++) {\n    						if (classes[i] == cls) return; // класс уже есть\n  						}\n\n  						classes.push(cls); // добавить\n\n  						obj.className = classes.join(' '); // и обновить свойство\n\n					}\n						\n					addClass(obj, 'new'); // obj.className='open menu new'\n					addClass(obj, 'open'); // без изменений (класс уже существует)\n					addClass(obj, 'me'); // obj.className='open menu new me'\n\n					alert( obj.className ); // \"open menu new me\"\n					*/\n\n\n\n					/*\n					Напишите функцию camelize(str), которая преобразует строки \n					вида «my-short-string» в «myShortString».\n					То есть, дефисы удаляются, а все слова после них получают заглавную букву.\n\n					function camelize(str) {\n  					var arr = str.split('-');\n\n  					for (var i = 1; i < arr.length; i++) {\n    					// преобразовать: первый символ с большой буквы\n    					arr[i] = arr[i].charAt(0).toUpperCase() + arr[i].slice(1);\n  					}\n\n  					return arr.join('');\n					}\n\n					alert( camelize(\"background-color\") ); // backgroundColor\n					alert( camelize(\"list-style-image\") ); // listStyleImage\n					alert( camelize(\"-webkit-transition\") ); // WebkitTransition\n					*/\n\n\n					/*\n					var obj = {\n  						className: 'open menu'\n					};\n\n					function removeClass(obj, cls) {\n						var classes = obj.className.split(' ');\n\n						for (var i = 0; i < classes.length; i++) {\n    						if (classes[i] == cls) {\n    							classes.splice(i, 1); //delete class\n    							i--; // уменьшает i, чтобы следующая итерация цикла заново проверила элемент с номером i. Без нее функция будет работать с ошибками.\n    						}\n  						}\n\n  						obj.className = classes.join(' '); // renew\n\n					}\n\n					removeClass(obj, 'open'); // obj.className='menu'\n					removeClass(obj, 'me'); // без изменений (нет такого класса)\n\n					alert( obj.className );\n					*/\n\n					/*\n					Как отсортировать массив чисел в обратном порядке?\n					var arr = [5, 2, 1, -10, 8];\n\n					function sortNumeric(a, b) {\n  						if (a > b) return 1;\n  						if (a < b) return -1;\n					}\n\n					arr.sort(sortNumeric).reverse();\n					alert(arr); //// 8, 5, 2, 1, -10\n					*/\n\n\n\n					/*\n					Есть массив строк arr. Создайте массив arrSorted – из тех же элементов, \n					но отсортированный. Исходный массив не должен меняться.\n\n					var arr = [\"HTML\", \"JavaScript\", \"CSS\"];\n					var arrSorted = arr.slice(0).sort();\n					alert( arrSorted ); // CSS, HTML, JavaScript\n					alert( arr ); // HTML, JavaScript, CSS (без изменений)\n					*/\n\n					/*************************************************************/\n					/*\n					method choosing all positive numbers:\n\n					var arr = [1, 8, -6, 0, 78];\n\n					var positiveArr = arr.filter(function(number) {\n						return number >= 0;\n						});\n\n					alert(positiveArr);\n					*/\n\n\n\n\n					/*\n\n					var arr = [\"Есть\", \"жизнь\", \"на\", \"Марсе\"];\n\n					var arrLength = arr.map(function(name) {\n						return name.length;\n					});\n\n					alert(arrLength);\n					*/\n\n\n\n\n					/*\n					var arr = [1, 2, 3, 4, 5];\n\n					var newArr = arr;\n\n					newArr.reduce(function(a, b) {\n						a[b] = b * b;\n						return a;\n					},{})\n\n  						\n					alert(a);\n					*/\n\n					/*\n					function sum() {\n  					var result = 0;\n\n  					for (var i = 0; i < arguments.length; i++) {\n    				result += arguments[i];\n  					}\n\n  					return result;\n					}\n\n					alert( sum() ); // 0\n					alert( sum(1) ); // 1\n					alert( sum(1, 2) ); // 3\n					alert( sum(1, 2, 3) ); // 6\n					alert( sum(1, 2, 3, 4) ); // 10\n					*/\n\n					/*var sum = 0.1 + 0.2;\n					alert(sum);*/\n					\n\n\n					/*\n					var arr = [1, 8, -6, 0, 78];\n\n					var positiveArr = arr.filter(function(number) {\n						return number >= 0;\n						});\n\n					alert(positiveArr);\n					*/\n\n/*\n					var quarter = function(number) {\n\n    					if (quarter(6) % 3 === 0 ) {\n        					alert(\"The statement is true\");\n    					} else {\n        					alert(\"The statement is false\");\n    					}\n\n					};\n					*/\n\n\n// 	var sleepCheck = function(numHours) {\n//     if(numHours >= 8) {\n//         console.log(\"You're getting plenty of sleep! Maybe even too much!\");\n//         }\n//     else{\n//     	//numHours < 8;\n//         console.log(\"Get some more shut eye!\");\n//         }\n//     };\n    \n// sleepCheck(10);\n// sleepCheck(5);\n// sleepCheck(8);\n\n\n/*\nvar i = 0;\n\nwhile ( i < 10 ) {\n	i++;\n\n	if (i >= 3 && i <= 10) {\n		continue;\n	\n	}\n\n	alert(i);\n}\n*/\n\n\n/*\n\n'use strict';\n    \n      function func() {\n    \n        let bar = '1';\n      \n        //let bar = '2';\n      \n        alert(bar);\n      }\n    \n      func();\n*/\n/*\nvar i = 0;\nwhile (i != 10) {\n  i += 0.2;\n}\n*/\n\n\n\n/*\n\nfunction ucFirst(str) {\n  return str.charAt(0).toUpperCase() + str.slice(1);\n}\n\nalert( ucFirst('mike') );\n\n*/\n\n\n\n/*\n\nfunction checkSpam(str) {\n	let target = str.toLowerCase();\n	if (target.indexOf('viagra') +1 || target.indexOf('xxxxx') +1) {\n		alert('Совпадение есть!');\n	}\n	else{\n		alert('Совпадений нет!');\n	}\n}\n\ncheckSpam('buy ViAgRA now');\ncheckSpam('free xxxxx');\ncheckSpam(\"innocent rabbit\"); \n\n*/\n\nlet newStr;\nfunction truncate(str, maxlength) {\n	if (str.length >= maxlength) {\n		newStr = str.substr(0, 19) + '...';\n		alert(newStr);\n	}\n	else{\n		alert(str);\n	}\n	\n}\n\n\ntruncate(\"Вот, что мне хотелось бы сказать на эту тему:\", 20);\n\ntruncate(\"Всем привет!\", 20);\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n					\n\n\n\n\n					\n\n\n				\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                	\n\n\n\n\n\n\n</script>\n</body>\n</html>",
+			"file": "/C/Users/Alienware/Desktop/lessson/index.html",
+			"file_size": 46480,
+			"file_write_time": 131084967576164587,
+			"settings":
+			{
+				"buffer_size": 37465,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alienware/Desktop/psd+code/landing page/landing-changed/landing-changed/index.html",
+			"settings":
+			{
+				"buffer_size": 6633,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Alienware/Desktop/psd+code/yukNgalam/index.html",
+			"settings":
+			{
+				"buffer_size": 8425,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/index.html",
+			"settings":
+			{
+				"buffer_size": 25816,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/css/style.css",
+			"settings":
+			{
+				"buffer_size": 18637,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alienware/Desktop/psd+code/allenia/allenia/index.html",
+			"settings":
+			{
+				"buffer_size": 6737,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -448,6 +508,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"title: \"My menu\"",
+			"isNumeric",
+			"multiplyNumeric",
 			"cd-main-nav-wrapper",
 			"vertical_content",
 			"info_text",
@@ -480,15 +543,112 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7930,
+						"buffer_size": 11430,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5555,
-								5555
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "app/less/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_indent": true,
+							"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3894.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Alienware/Desktop/lessson/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15055,
+								15057
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Alienware/Desktop/psd+code/landing page/landing-changed/landing-changed/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -498,49 +658,131 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4714.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 1,
-					"file": "app/less/main.less",
+					"buffer": 4,
+					"file": "/C/Users/Alienware/Desktop/psd+code/yukNgalam/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3252,
+						"buffer_size": 8425,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2454,
-								2454
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_indent": true,
-							"syntax": "Packages/LESS/LESS.tmLanguage"
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4120.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11228.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 6,
+					"file": "/C/Users/Alienware/Desktop/psd+code/umbrella/umbrella landing page- final/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 22588.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Alienware/Desktop/psd+code/allenia/allenia/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
 					"file": "app/less/mouse_scroll_snippet.less",
 					"semi_transient": false,
 					"settings":
@@ -558,6 +800,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 							"syntax": "Packages/LESS/LESS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -566,11 +809,11 @@
 						"translation.y": 4036.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 9,
 					"file": "gulpfile.js",
 					"semi_transient": false,
 					"settings":
@@ -588,6 +831,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -596,7 +840,7 @@
 						"translation.y": 172.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
@@ -630,7 +874,7 @@
 		"cols":
 		[
 			0.0,
-			0.53824470928,
+			0.444147689993,
 			1.0
 		],
 		"rows":
@@ -686,7 +930,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
